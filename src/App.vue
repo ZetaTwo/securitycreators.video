@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Security Creators</h1>
+    <CreatorsFilter />
+    <CreatorCards />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import CreatorsFilter from './components/CreatorsFilter.vue'
+import CreatorCards from './components/CreatorCards.vue'
 
 export default {
-  name: 'App',
+  name: 'Security Creators',
   components: {
-    HelloWorld
+    CreatorsFilter,
+    CreatorCards
   }
 }
 </script>

@@ -4,10 +4,10 @@
         "location": "Zürich, Switzerland",
         "timezone": "CET (GMT+1)",
         "avatar": "gynvael.jpg",
-        "schedule": "",
+        "schedule": "Most Wednesdays 20:00",
         "tags": ["programming", "security/hacking", "CTF (all categories)", "electronics", "intermediate-advance level"],
         "links": [
-            ["https://www.youtube.com/user/GynvaelEN/livel", "fab fa-youtube"],
+            ["https://www.youtube.com/user/GynvaelEN", "fab fa-youtube"],
             ["https://twitter.com/gynvael", "fab fa-twitter"],
             ["https://gynvael.coldwind.pl", "fas fa-globe"],
             ["https://github.com/gynvael", "fab fa-github"]

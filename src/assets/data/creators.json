@@ -31,7 +31,7 @@
         "location": "",
         "timezone": "EST",
         "avatar": "robfuller.jpg",
-        "schedule": "Wednesdays, 21:00",
+        "schedule": "Wednesdays, 21:00 EST",
         "tags": [],
         "links": [
             ["https://twitch.tv/mub1x", "fab fa-twitch"],
@@ -59,7 +59,7 @@
         "location": "",
         "timezone": "EST (UTC-5)",
         "avatar": "murmus.jpg",
-        "schedule": "Tuesdays, 15:00, 2-3h",
+        "schedule": "Tuesdays, 15:00 EST, 2-3h",
         "tags": ["Binary Exploitation", "general VR stuff"],
         "links": [
             ["https://youtube.com/MurmusCTF", "fab fa-youtube"],
@@ -72,7 +72,7 @@
         "location": "",
         "timezone": "GMT+1",
         "avatar": "liveoverflow.jpg",
-        "schedule": "Wednesdays, 21:00",
+        "schedule": "Wednesdays, 21:00 CET",
         "tags": ["WebDev", "haxxing stuff"],
         "links": [
             ["https://youtube.com/LiveOverflowCTF", "fab fa-youtube"],
@@ -85,7 +85,7 @@
         "location": "",
         "timezone": "PST (UTC-8)",
         "avatar": "joshwatson.jpg",
-        "schedule": "Tuesdays/Thursdays, 15:00, ~3h, and most Sundays 19:00, ~3h",
+        "schedule": "Tuesdays/Thursdays, 15:00 PST, ~3h, and most Sundays 19:00 PST, ~3h",
         "tags": ["binary ninja", "reverse engineering", "pwnables", "crackmes", "tool building"],
         "links": [
             ["https://twitch.tv/syrillian", "fab fa-twitch"],
@@ -116,7 +116,7 @@
         "location": "Washington DC",
         "timezone": "EST (UTC-5)",
         "avatar": "theblindhacker.jpg",
-        "schedule": "Wednesdays 18:00, Fridays 15:00 Saturdays 11:00",
+        "schedule": "Wednesdays 18:00, Fridays 15:00 Saturdays 11:00 EST",
         "tags": ["CTF challenges", "System Basics", "Build a CTF", "Hacking AD"],
         "links": [
             ["https://twitch.tv/theblindhacker", "fab fa-twitch"],
@@ -142,7 +142,7 @@
         "location": "UK",
         "timezone": "UTC+0",
         "avatar": "spookphia.jpg",
-        "schedule": "Weekly - Wednesday at 20:00",
+        "schedule": "Weekly - Wednesday at 20:00 UTC",
         "tags": ["Retired Hack the Box boxes"],
         "links": [
             ["https://youtube.com/justinsteven", "fab fa-youtube"],
@@ -156,7 +156,7 @@
         "location": "California",
         "timezone": "",
         "avatar": "nahamsec.jpg",
-        "schedule": "Wednesdays, 21:00",
+        "schedule": "Wednesdays, 21:00 PT",
         "tags": ["Web App Hacking", "Bug Bounties"],
         "links": [
             ["https://youtube.com/nahamsec", "fab fa-youtube"],
@@ -169,7 +169,7 @@
         "location": "UK",
         "timezone": "UTC+0",
         "avatar": "insiderphd.jpg",
-        "schedule": "Weekly videos, Saturday 16:00",
+        "schedule": "Weekly videos, Saturday 16:00 UTC",
         "tags": ["Bug Bounties", "web app hacking"],
         "links": [
             ["https://youtube.com/RapidBug", "fab fa-youtube"],
@@ -182,7 +182,7 @@
         "location": "Buckinghamshire, UK",
         "timezone": "UTC+0",
         "avatar": "mrturvey.jpg",
-        "schedule": "Mondays 17:00",
+        "schedule": "Mondays 17:00 UTC",
         "tags": ["PenTesting Tutorials", "HackTheBox", "InfoSec Interviews"],
         "links": [
             ["https://youtube.com/mrturvey", "fab fa-youtube"],
@@ -194,7 +194,7 @@
         "location": "Austria",
         "timezone": "CET",
         "avatar": "hacksplained.jpg",
-        "schedule": "Wednesdays, 21:00",
+        "schedule": "Wednesdays, 21:00 CET",
         "tags": ["pentesting", "bug bounty", "motivational"],
         "links": [
             ["https://youtube.com/hacksplained", "fab fa-youtube"],

@@ -13,7 +13,7 @@
        <div class="creator-timezone" v-if="creator.timezone">TZ: {{creator.timezone}}</div>
       </div>
       <div class="creator-col-right">
-        <div class="creator-topics" v-if="creator.tags | length">
+        <div class="creator-topics" v-if="creator.tags.length">
           <h3>Content</h3>
           <span class="badge badge-light" v-for="(tag, index) in creator.tags" v-bind:key="index">{{tag}}</span>
         </div>

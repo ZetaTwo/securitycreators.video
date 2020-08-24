@@ -72,9 +72,10 @@
         "location": "",
         "timezone": "GMT+1",
         "avatar": "liveoverflow.jpg",
-        "schedule": "Wednesdays, 21:00 CET",
+        "schedule": "Ad-hoc, aiming for once a week",
         "tags": ["WebDev", "haxxing stuff"],
         "links": [
+            ["https://liveoverflow.com", "fas fa-globe"],
             ["https://youtube.com/LiveOverflowCTF", "fab fa-youtube"],
             ["https://twitch.tv/LiveOverflow", "fab fa-twitch"],
             ["https://twitter.com/LiveOverflow", "fab fa-twitter"]
@@ -225,6 +226,18 @@
             ["https://youtube.com/247CTF", "fab fa-youtube"],
             ["https://247ctf.com", "fas fa-globe"],
             ["https://twitter.com/247CTF", "fab fa-twitter"]
+        ]
+    },
+    {
+        "name": "Peer Heinen / AshF0x",
+        "location": "Luxembourg",
+        "timezone": "CEST",
+        "avatar": "ashfox.jpg",
+        "schedule": "Monday trough Friday, weekends optional",
+        "tags": ["THM", "HTB", "Coding", "Hardware", "Learning/Beginner oriented content"],
+        "links": [
+            ["https://twitch.tv/ash_f0x", "fab fa-twitch"],
+            ["https://twitter.com/0xAshFox", "fab fa-twitter"]
         ]
     }
 ]

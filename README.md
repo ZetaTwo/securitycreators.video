@@ -1,4 +1,6 @@
-# securitycreators
+# Security Creators
+
+Repository for https://securitycreators.video.
 
 ## Project setup
 ```

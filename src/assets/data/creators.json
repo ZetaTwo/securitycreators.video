@@ -97,10 +97,10 @@
     {
         "name": "TheColonial",
         "location": "Sunshine Coast, Australia",
-        "timezone": "AEST (GMT +10)",
+        "timezone": "AEST (GMT+10)",
         "avatar": "thecolonial.jpg",
-        "schedule": "Ad-hoc, but aiming for every second Wednesday 20:00 AEST (2 to 4 hours)",
-        "tags": ["CTF challenges", "binary/reversin", "Exploit Development", "General Development", "tools/extensions/etc"],
+        "schedule": "Tuesdays 20:00 AEST (2+ hours)",
+        "tags": ["CTF Challenges", "Binary Exploitation", "Reversing", "Tool Development"],
         "links": [
             ["https://youtube.com/OJReeves", "fab fa-youtube"],
             ["https://twitch.tv/ojreeves", "fab fa-twitch"],

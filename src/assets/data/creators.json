@@ -146,7 +146,6 @@
         "schedule": "Weekly - Wednesday at 20:00 UTC",
         "tags": ["Retired Hack the Box boxes"],
         "links": [
-            ["https://youtube.com/justinsteven", "fab fa-youtube"],
             ["https://twitter.com/spookphia", "fab fa-twitter"],
             ["https://twitter.com/Vixxen_OP", "fab fa-twitter"],
             ["https://twitch.tv/Vixxen_TV", "fab fa-twitch"]

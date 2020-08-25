@@ -1,20 +1,23 @@
 <template>
   <div id="app">
-    <h1>Security Creators</h1>
+    <header><h1>Security Creators</h1></header>
     <!--<CreatorsFilter />-->
     <CreatorCards />
+    <Footer />
   </div>
 </template>
 
 <script>
 //import CreatorsFilter from './components/CreatorsFilter.vue'
 import CreatorCards from './components/CreatorCards.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   name: 'Security Creators',
   components: {
     //CreatorsFilter,
-    CreatorCards
+    CreatorCards,
+    Footer
   }
 }
 </script>

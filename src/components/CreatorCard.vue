@@ -38,7 +38,6 @@ export default {
 .creator-card {
     display: inline-block;
     width: 400px;
-    /*height: 200px;*/
     border: 4px solid var(--dark-purple);
     border-radius: 30px;
     margin: 20px;
@@ -54,7 +53,6 @@ export default {
 .creator-columns {
   display: flex;
   width: 100%;
-  /*border: 1px solid #000000;*/
   padding: 5px 0;
 }
 
@@ -85,7 +83,6 @@ export default {
 
 .creator-col-right {
     width: 60%;
-    /*border: 1px solid black;*/
     padding: 0 5px;
 }
 </style>

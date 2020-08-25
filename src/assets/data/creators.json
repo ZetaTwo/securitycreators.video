@@ -69,11 +69,11 @@
     },
     {
         "name": "LiveOverflow",
-        "location": "",
-        "timezone": "GMT+1",
+        "location": "Germany",
+        "timezone": "CET (GMT+1)",
         "avatar": "liveoverflow.jpg",
-        "schedule": "Ad-hoc, aiming for once a week",
-        "tags": ["WebDev", "haxxing stuff"],
+        "schedule": "Aiming for once a week",
+        "tags": ["CTF Challenges", "general IT security"],
         "links": [
             ["https://liveoverflow.com", "fas fa-globe"],
             ["https://youtube.com/LiveOverflowCTF", "fab fa-youtube"],

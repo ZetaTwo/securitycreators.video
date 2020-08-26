@@ -249,7 +249,7 @@
         "links": [
             ["https://www.youtube.com/hakluke", "fab fa-youtube"],
             ["https://twitter.com/hakluke", "fab fa-twitter"],
-            ["https://medium.com/@hakluke", "fas fa-medium"],
+            ["https://medium.com/@hakluke", "fab fa-medium"],
             ["https://github.com/hakluke_", "fab fa-github"],
             ["https://instagram.com/hakluke_", "fab fa-instagram"]
         ]

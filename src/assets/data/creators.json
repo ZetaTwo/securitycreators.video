@@ -255,6 +255,18 @@
         ]
     },
     {
+        "name": "Reconless",
+        "location": "",
+        "timezone": "CET",
+        "avatar": "reconless.jpg",
+        "schedule": "",
+        "tags": ["WebAppSec", "Bug Bounties"],
+        "links": [
+            ["https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ", "fab fa-youtube"],
+            ["https://twitter.com/0xReconless", "fab fa-twitter"],
+        ]
+     },
+     {
         "name": "John Hammond",
         "location": "United States",
         "timezone": "EST",

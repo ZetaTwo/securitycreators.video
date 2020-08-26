@@ -263,7 +263,7 @@
         "tags": ["WebAppSec", "Bug Bounties"],
         "links": [
             ["https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ", "fab fa-youtube"],
-            ["https://twitter.com/0xReconless", "fab fa-twitter"],
+            ["https://twitter.com/0xReconless", "fab fa-twitter"]
         ]
      },
      {
@@ -277,10 +277,10 @@
             ["https://www.youtube.com/johnhammond010", "fab fa-youtube"],
             ["https://twitter.com/_johnhammond", "fab fa-twitter"],
             ["https://github.com/JohnHammond", "fab fa-github"],
-            ["https://www.instagram.com/_johnhammond", "fab fa-instagram"]
+            ["https://www.instagram.com/_johnhammond", "fab fa-instagram"],
             ["https://twitch.tv/johnhammond010", "fab fa-twitch"],
             ["https://patreon.com/johnhammond010", "fab fa-patreon"],
-            ["https://www.linkedin.com/in/johnhammond010/", "fab fa-linkedin"],
+            ["https://www.linkedin.com/in/johnhammond010/", "fab fa-linkedin"]
         ]
     }
 ]

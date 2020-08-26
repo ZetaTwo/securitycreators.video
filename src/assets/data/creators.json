@@ -238,5 +238,20 @@
             ["https://twitch.tv/ash_f0x", "fab fa-twitch"],
             ["https://twitter.com/0xAshFox", "fab fa-twitter"]
         ]
+    },
+    {
+        "name": "hakluke / Luke Stephens",
+        "location": "Brisbane, Australia",
+        "timezone": "AEST (GMT+10)",
+        "avatar": "hakluke.jpg",
+        "schedule": "Sporadic",
+        "tags": ["programming", "hacking", "security", "bug bounties", "mindset", "motivation"],
+        "links": [
+            ["https://www.youtube.com/hakluke", "fab fa-youtube"],
+            ["https://twitter.com/hakluke", "fab fa-twitter"],
+            ["https://medium.com/@hakluke", "fas fa-medium"],
+            ["https://github.com/hakluke_", "fab fa-github"],
+            ["https://instagram.com/hakluke_", "fab fa-instagram"]
+        ]
     }
 ]

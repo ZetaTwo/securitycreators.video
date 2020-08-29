@@ -294,7 +294,7 @@
             ["https://www.youtube.com/superhero1", "fab fa-youtube"],
             ["https://twitter.com/_superhero1", "fab fa-twitter"],
             ["https://twitch.tv/sup3rhero1", "fab fa-twitch"],
-            ["https://ko-fi.com/superhero1", "fab fa-coffee"]
+            ["https://ko-fi.com/superhero1", "fas fa-coffee"]
         ]
     }
 ]

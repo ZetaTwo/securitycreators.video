@@ -282,5 +282,19 @@
             ["https://patreon.com/johnhammond010", "fab fa-patreon"],
             ["https://www.linkedin.com/in/johnhammond010/", "fab fa-linkedin"]
         ]
+    },
+    {
+        "name": "Sebastian / superhero1",
+        "location": "Germany",
+        "timezone": "CEST",
+        "avatar": "superhero1.jpg",
+        "schedule": "bi-weekly",
+        "tags": ["Capture the Flag", "HackTheBox/TryHackMe", "Hardware", "Pentesting"],
+        "links": [
+            ["https://www.youtube.com/superhero1", "fab fa-youtube"],
+            ["https://twitter.com/_superhero1", "fab fa-twitter"],
+            ["https://twitch.tv/sup3rhero1", "fab fa-twitch"],
+            ["https://ko-fi.com/superhero1", "fab fa-coffee"]
+        ]
     }
 ]

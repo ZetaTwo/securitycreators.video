@@ -296,5 +296,22 @@
             ["https://twitch.tv/sup3rhero1", "fab fa-twitch"],
             ["https://ko-fi.com/superhero1", "fas fa-coffee"]
         ]
+    },
+    {
+        "name": "PinkDraconian",
+        "location": "Belgium",
+        "timezone": "CEST",
+        "avatar": "pinkdraconian.png",
+        "schedule": "Weekly YouTube and TikTok uploads",
+        "tags": ["Capture the Flag", "CyberSecLabs", "HackTheBox", "Online Wargames", "Pentesting"],
+        "links": [
+            ["https://www.youtube.com/c/PinkDraconian", "fab fa-youtube"],
+            ["https://twitter.com/PinkDraconian", "fab fa-twitter"],
+            ["https://github.com/PinkDraconian", "fab fa-github"],
+            ["https://www.instagram.com/robbevanroey/", "fab fa-instagram"],
+            ["https://www.linkedin.com/in/robbe-van-roey-365666195/", "fab fa-linkedin"],
+            ["http://pinkdraconian.d4rkc0de.com/", "fas fa-globe"]
+            ["https://www.tiktok.com/@pinkdraconian", "fas fa-globe"]
+        ]
     }
 ]

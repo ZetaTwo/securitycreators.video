@@ -319,8 +319,8 @@
         "location": "United States",
         "timezone": "EDT",
         "avatar": "CyberWarriorStudios_Logo_2_Transparent_B.png",
-        "schedule": "Mon, Tues, Wed, Fri, YouTube uploads, Patreon Podcast, and Security Happy Hour Podcast, occasional Live Friday Nights Security Happy Hour, sporadic other days"
-        "tags": ["Cybersecurity", "Motivational Monday", "Technical Tuesday", "WTF! Wednesday", "Security Happy Hour", "Pentesting", "ParrotSec", "Kali"]
+        "schedule": "Mon, Tues, Wed, Fri, YouTube uploads, Patreon Podcast, and Security Happy Hour Podcast, occasional Live Friday Nights Security Happy Hour, sporadic other days",
+        "tags": ["Cybersecurity", "Motivational Monday", "Technical Tuesday", "WTF! Wednesday", "Security Happy Hour", "Pentesting", "ParrotSec", "Kali"],
         "links": [
             ["https://www.youtube.com/c/SchellerCyberSecurity", "fab fa-youtube"],
             ["https://www.patreon.com/CyberWarriorStudios", "fab fa-patreon"],

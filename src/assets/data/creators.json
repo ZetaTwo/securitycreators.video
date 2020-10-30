@@ -330,5 +330,23 @@
             ["https://www.cyberwarriorstudios.com", "fas fa-globe"],
             ["https://www.schellercybersecurity.com", "fas fa-globe"]
         ]
+    },
+    {
+        "name": "Stefan Rows / Ceos3c",
+        "location": "Germany",
+        "timezone": "CET / GMT+01",
+        "avatar": "Ceos3c.jpg",
+        "schedule": "Nothing fixed. Back to fixed in ~January",
+        "tags": ["Cybersecurity", "Coding", "Web Development", "Linux", "Open Source", "Bug Bounties", "Web Development", "Productivity"],
+        "links": [
+            ["https://www.youtube.com/c/ceos3ctutorials", "fab fa-youtube"],
+            ["https://www.patreon.com/ceos3c", "fab fa-patreon"],
+            ["https://www.twitter.com/ceos3c", "fab fa-twitter"],
+            ["https://www.instagram.com/stefanrows", "fab fa-instagram"],
+            ["https://www.linkedin.com/in/stefan-rosanitsch-051aaa65/", "fab fa-linkedin"],
+            ["https://www.facebook.com/ceos3c", "fab fa-facebook"],
+            ["https://www.ceos3c.com/", "fas fa-globe"],
+            ["https://www.pinterest.com/ceos3c/", "fas fa-pinterest"]
+        ]
     }
 ]

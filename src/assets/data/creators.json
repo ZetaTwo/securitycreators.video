@@ -348,5 +348,20 @@
             ["https://www.ceos3c.com/", "fas fa-globe"],
             ["https://www.pinterest.com/ceos3c/", "fas fa-pinterest"]
         ]
+    },
+    {
+        "name": "Zaid Sabih / zSecurity",
+        "location": "Dublin, Ireland",
+        "timezone": "GMT",
+        "avatar": "zaid.jpg",
+        "schedule": "Most Thursdays 14:00",
+        "tags": ["Ethica Hacking", "Cyber Security"],
+        "links": [
+            ["https://www.youtube.com/c/zSecurity", "fab fa-youtube"],
+            ["https://www.facebook.com/ZSecurity-1453250781458287/", "fab fa-facebook"],
+            ["https://www.linkedin.com/company/zsecurity-org/", "fab fa-linkedin"],
+            ["https://www.twitter.com/_zSecurity_", "fab fa-twitter"],
+            ["https://www.instagram.com/zsecurity_org/", "fab fa-instagram"],
+        ]
     }
 ]

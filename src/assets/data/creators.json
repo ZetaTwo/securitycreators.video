@@ -376,6 +376,17 @@
             ["https://www.linkedin.com/in/roni-carta-bba45b1a3/", "fab fa-linkedin"],
             ["https://twitter.com/0xLupin/", "fab fa-twitter"],
             ["https://twitch.tv/0xLupin", "fab fa-twitch"]
+    },
+    {
+        "name": "ippSec",
+        "location": "United States",
+        "timezone": "EDT",
+        "avatar": "ippsec.jpg",
+        "schedule": "Saturdays",
+        "tags": ["Capture the Flag", "HackTheBox"],
+        "links": [
+            ["https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA", "fab fa-youtube"],
+            ["https://twitter.com/ippsec", "fab fa-twitter"]
         ]
     }
 ]

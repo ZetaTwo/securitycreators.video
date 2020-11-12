@@ -373,7 +373,7 @@
         "tags": ["Capture the Flag", "HackTheBox"],
         "links": [
             ["https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA", "fab fa-youtube"],
-            ["https://twitter.com/ippsec", "fab fa-twitter"],
+            ["https://twitter.com/ippsec", "fab fa-twitter"]
         ]
     }
 ]

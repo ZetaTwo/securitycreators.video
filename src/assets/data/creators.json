@@ -355,13 +355,27 @@
         "timezone": "GMT",
         "avatar": "zaid.jpg",
         "schedule": "Most Thursdays 14:00",
-        "tags": ["Ethica Hacking", "Cyber Security"],
+        "tags": ["Ethical Hacking", "Cyber Security"],
         "links": [
             ["https://www.youtube.com/c/zSecurity", "fab fa-youtube"],
             ["https://www.facebook.com/ZSecurity-1453250781458287/", "fab fa-facebook"],
             ["https://www.linkedin.com/company/zsecurity-org/", "fab fa-linkedin"],
             ["https://www.twitter.com/_zSecurity_", "fab fa-twitter"],
             ["https://www.instagram.com/zsecurity_org/", "fab fa-instagram"]
+        ]
+    }
+    {
+        "name": "Lupin / Roni Carta",
+        "location": "France",
+        "timezone": "GMT+2",
+        "avatar": "lupin.jpg",
+        "schedule": "Not Fixed",
+        "tags": ["Ethical Hacking", "Cyber Security", "XSS", "Pentesting"],
+        "links": [
+            ["https://www.youtube.com/watch?v=Yk0oEhD_9hw", "fab fa-youtube"],
+            ["https://www.linkedin.com/in/roni-carta-bba45b1a3/", "fab fa-linkedin"],
+            ["https://twitter.com/0xLupin/", "fab fa-twitter"],
+            ["https://twitch.tv/0xLupin", "fab fa-twitch"]
         ]
     }
 ]

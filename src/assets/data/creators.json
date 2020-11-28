@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bug Bounty Reports Explained",
+        "location": "Kraków, Poland",
+        "timezone": "CET (GMT+1)",
+        "avatar": "gregxsunday.png",
+        "schedule": "Video every 2 weeks",
+        "tags": ["bug bounty"],
+        "links": [
+            ["https://www.youtube.com/c/BugBountyReportsExplained", "fab fa-youtube"],
+            ["https://twitter.com/gregxsunday", "fab fa-twitter"]
+        ]
+    },
+    {
         "name": "Gynvael Coldwind",
         "location": "Zürich, Switzerland",
         "timezone": "CET (GMT+1)",

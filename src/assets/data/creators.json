@@ -1,5 +1,20 @@
 [
     {
+        "name": "Michael Skelton",
+        "location": "Gold Coast, Australia",
+        "timezone": "CET (GMT+10)",
+        "avatar": "codingo.gif",
+        "schedule": "Aiming for once a fortnight",
+        "tags": ["programming", "security/hacking", "bug bounties", "electronics", "intermediate-advance level", "bug bounties", "mindset", "motivation", "tools"],
+        "links": [
+            ["https://www.youtube.com/codingo", "fab fa-youtube"],
+            ["https://twitter.com/codingo_", "fab fa-twitter"],
+            ["https://www.facebook.com/codingo", "fab fa-facebook"],
+            ["https://github.com/codingo", "fab fa-github"],
+            ["https://twitch.tv/codingo_", "fab fa-twitch"]
+        ]
+    },
+    {
         "name": "Gynvael Coldwind",
         "location": "Zürich, Switzerland",
         "timezone": "CET (GMT+1)",

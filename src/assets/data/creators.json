@@ -417,5 +417,23 @@
             ["https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA", "fab fa-youtube"],
             ["https://twitter.com/ippsec", "fab fa-twitter"]
         ]
+    },
+
+    {
+        "name": "HackerSploit/Alexis",
+        "location": "Kenya",
+        "timezone": "EAT",
+        "avatar": "Alexis.jpg",
+        "schedule": "2-4 Videos Per Week",
+        "tags": ["Cybersecurity", "Penetration Testing", "Web App Pentesting", "HackTheBox", "TryHackMe", "Linux Security", "Python", "Kali"],
+        "links": [
+            ["https://www.youtube.com/HackerSploit", "fab fa-youtube"],
+            ["https://www.patreon.com/HackerSploit", "fab fa-patreon"],
+            ["https://twitter.com/HackerSploit", "fab fa-twitter"],
+            ["https://www.instagram.com/hackersploit/", "fab fa-instagram"],
+            ["https://www.linkedin.com/in/alexisahmed", "fab fa-linkedin"],
+            ["https://hackersploit.org", "fas fa-globe"],
+            ["https://hackersploit.academy", "fas fa-globe"]
+        ]
     }
 ]

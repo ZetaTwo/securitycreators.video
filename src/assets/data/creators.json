@@ -1,5 +1,18 @@
 [
   {
+        "name": "Vickie Li",
+        "location": "Chicago, USA",
+        "timezone": "CST (GMT-6)",
+        "avatar": "vickieli.png",
+        "schedule": "Video every week",
+        "tags": ["security", "hacking", "secure development", "ethical hacking"],
+        "links": [
+            ["https://www.youtube.com/c/vickielidev", "fab fa-youtube"],
+            ["https://twitter.com/vickieli7", "fab fa-twitter"],
+            ["https://vickieli.dev", "fas fa-globe"]
+        ]
+  },
+  {
         "name": "Bug Bounty Reports Explained",
         "location": "Kraków, Poland",
         "timezone": "CET (GMT+1)",

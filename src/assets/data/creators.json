@@ -448,5 +448,18 @@
             ["https://hackersploit.org", "fas fa-globe"],
             ["https://hackersploit.academy", "fas fa-globe"]
         ]
+    },
+  
+    {
+        "name": "SimeonOnSecurity",
+        "location": "United States",
+        "timezone": "EST",
+        "avatar": "sos.jpg",
+        "schedule": "N/A",
+        "tags": ["Cybersecurity", "Automation", "Compliance", "PowerShell", "Penetration Testing", "HackTheBox", "TryHackMe"],
+        "links": [
+            ["https://simeononsecurity.ch", "fas fa-globe"],
+            ["https://github.com/simeononsecurity", "fab fa-github"]
+        ]
     }
 ]

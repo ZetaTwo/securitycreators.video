@@ -1,5 +1,21 @@
 [
   {
+        "name": "DJax / Alpha CyberSecurity",
+        "location": "Atlanta, USA",
+        "timezone": "EST (UTC-5)",
+        "avatar": "Alpha.jpg",
+        "schedule": "InfoSec Unplugged Every Thursday @ 6PM EST", "Shooting for Mondays, Tuesdays, Thursdays and Fridays"
+        "tags": ["InfoSec Unplugged", "podcast", "interviews", "ethical hacking", "CTF", "TryHackMe", "security", "gaming"],
+        "links": [
+            ["https://www.youtube.com/c/AlphaCyberSecurity", "fab fa-youtube"],
+            ["https://www.twitch.tv/djax120", "fab fa-twitch"],
+            ["https://www.buymeacoffee.com/djax", "fas fa-coffee"],
+            ["https://alphacybersecurity.tech", "fas fa-globe"],
+            ["https://twitter.com/Djax_Alpha", "fab fa-twitter"],
+            ["https://www.instagram.com/djax_alpha", "fab fa-instagram"] 
+        ]
+  },  
+  {
         "name": "Vickie Li",
         "location": "Chicago, USA",
         "timezone": "CST (GMT-6)",

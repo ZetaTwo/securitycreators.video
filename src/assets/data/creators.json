@@ -1,5 +1,19 @@
 [
   {
+        "name": "STÖK",
+        "location": "Sweden",
+        "timezone": "CET (GMT+1)",
+        "avatar": "stok.png",
+        "schedule": "Bounty Thursdays",
+        "tags": ["Bug Bounty", "Cybersecurity Awareness", "RED/BLUE TEAM", "Mental hacking"],
+        "links": [
+            ["https://youtube.com/stokfredrik", "fab fa-youtube"],
+            ["https://stokfredrik.com/", "fas fa-globe"],
+            ["https://twitter.com/stokfredrik", "fab fa-twitter"],
+            ["https://instagram.com/stokfredrik", "fab fa-instagram"]
+        ]
+  },
+  {
         "name": "DJax / Alpha CyberSecurity",
         "location": "Atlanta, USA",
         "timezone": "EST (UTC-5)",

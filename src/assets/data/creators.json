@@ -1,482 +1,481 @@
 [
   {
-        "name": "STÖK",
-        "location": "Sweden",
-        "timezone": "CET (GMT+1)",
-        "avatar": "stok.png",
-        "schedule": "Bounty Thursdays",
-        "tags": ["Bug Bounty", "Cybersecurity Awareness", "RED/BLUE TEAM", "Mental hacking"],
-        "links": [
-            ["https://youtube.com/stokfredrik", "fab fa-youtube"],
-            ["https://stokfredrik.com/", "fas fa-globe"],
-            ["https://twitter.com/stokfredrik", "fab fa-twitter"],
-            ["https://instagram.com/stokfredrik", "fab fa-instagram"]
-        ]
+    "name": "STÖK",
+    "location": "Sweden",
+    "timezone": "CET (GMT+1)",
+    "avatar": "stok.png",
+    "schedule": "Bounty Thursdays",
+    "tags": ["Bug Bounty", "Cybersecurity Awareness", "RED/BLUE TEAM", "Mental hacking"],
+    "links": [
+      ["https://youtube.com/stokfredrik", "fab fa-youtube"],
+      ["https://stokfredrik.com/", "fas fa-globe"],
+      ["https://twitter.com/stokfredrik", "fab fa-twitter"],
+      ["https://instagram.com/stokfredrik", "fab fa-instagram"]
+    ]
   },
   {
-        "name": "DJax / Alpha CyberSecurity",
-        "location": "Atlanta, USA",
-        "timezone": "EST (UTC-5)",
-        "avatar": "Alpha.png",
-        "schedule": "InfoSec Unplugged Every Thursday @ 6PM EST! Shooting for Mondays, Tuesdays, Thursdays and Fridays",
-        "tags": ["InfoSec Unplugged", "podcast", "interviews", "ethical hacking", "CTF", "TryHackMe", "security", "gaming"],
-        "links": [
-            ["https://www.youtube.com/c/AlphaCyberSecurity", "fab fa-youtube"],
-            ["https://www.twitch.tv/djax120", "fab fa-twitch"],
-            ["https://www.buymeacoffee.com/djax", "fas fa-coffee"],
-            ["https://alphacybersecurity.tech", "fas fa-globe"],
-            ["https://twitter.com/Djax_Alpha", "fab fa-twitter"],
-            ["https://www.instagram.com/djax_alpha", "fab fa-instagram"]
-        ]
+    "name": "DJax / Alpha CyberSecurity",
+    "location": "Atlanta, USA",
+    "timezone": "EST (UTC-5)",
+    "avatar": "Alpha.png",
+    "schedule": "InfoSec Unplugged Every Thursday @ 6PM EST! Shooting for Mondays, Tuesdays, Thursdays and Fridays",
+    "tags": ["InfoSec Unplugged", "podcast", "interviews", "ethical hacking", "CTF", "TryHackMe", "security", "gaming"],
+    "links": [
+      ["https://www.youtube.com/c/AlphaCyberSecurity", "fab fa-youtube"],
+      ["https://www.twitch.tv/djax120", "fab fa-twitch"],
+      ["https://www.buymeacoffee.com/djax", "fas fa-coffee"],
+      ["https://alphacybersecurity.tech", "fas fa-globe"],
+      ["https://twitter.com/Djax_Alpha", "fab fa-twitter"],
+      ["https://www.instagram.com/djax_alpha", "fab fa-instagram"]
+    ]
   },
   {
-        "name": "Vickie Li",
-        "location": "Chicago, USA",
-        "timezone": "CST (GMT-6)",
-        "avatar": "vickieli.png",
-        "schedule": "Video every week",
-        "tags": ["security", "hacking", "secure development", "ethical hacking"],
-        "links": [
-            ["https://www.youtube.com/c/vickielidev", "fab fa-youtube"],
-            ["https://twitter.com/vickieli7", "fab fa-twitter"],
-            ["https://vickieli.dev", "fas fa-globe"]
-        ]
+    "name": "Vickie Li",
+    "location": "Chicago, USA",
+    "timezone": "CST (GMT-6)",
+    "avatar": "vickieli.png",
+    "schedule": "Video every week",
+    "tags": ["security", "hacking", "secure development", "ethical hacking"],
+    "links": [
+      ["https://www.youtube.com/c/vickielidev", "fab fa-youtube"],
+      ["https://twitter.com/vickieli7", "fab fa-twitter"],
+      ["https://vickieli.dev", "fas fa-globe"]
+    ]
   },
   {
-        "name": "Bug Bounty Reports Explained",
-        "location": "Kraków, Poland",
-        "timezone": "CET (GMT+1)",
-        "avatar": "gregxsunday.png",
-        "schedule": "Video every 2 weeks",
-        "tags": ["bug bounty"],
-        "links": [
-            ["https://www.youtube.com/c/BugBountyReportsExplained", "fab fa-youtube"],
-            ["https://twitter.com/gregxsunday", "fab fa-twitter"]
-        ]
+    "name": "Bug Bounty Reports Explained",
+    "location": "Kraków, Poland",
+    "timezone": "CET (GMT+1)",
+    "avatar": "gregxsunday.png",
+    "schedule": "Video every 2 weeks",
+    "tags": ["bug bounty"],
+    "links": [
+      ["https://www.youtube.com/c/BugBountyReportsExplained", "fab fa-youtube"],
+      ["https://twitter.com/gregxsunday", "fab fa-twitter"]
+    ]
   },
   {
-        "name": "Michael Skelton",
-        "location": "Gold Coast, Australia",
-        "timezone": "CET (GMT+10)",
-        "avatar": "codingo.gif",
-        "schedule": "Aiming for once a fortnight",
-        "tags": ["programming", "security/hacking", "bug bounties", "electronics", "intermediate-advance level", "bug bounties", "mindset", "motivation", "tools"],
-        "links": [
-            ["https://www.youtube.com/codingo", "fab fa-youtube"],
-            ["https://twitter.com/codingo_", "fab fa-twitter"],
-            ["https://www.facebook.com/codingo", "fab fa-facebook"],
-            ["https://github.com/codingo", "fab fa-github"],
-            ["https://twitch.tv/codingo_", "fab fa-twitch"],
-            ["https://codingo.io", "fas fa-globe"]
-        ]
+    "name": "Michael Skelton",
+    "location": "Gold Coast, Australia",
+    "timezone": "CET (GMT+10)",
+    "avatar": "codingo.gif",
+    "schedule": "Aiming for once a fortnight",
+    "tags": ["programming", "security/hacking", "bug bounties", "electronics", "intermediate-advance level", "bug bounties", "mindset", "motivation", "tools"],
+    "links": [
+      ["https://www.youtube.com/codingo", "fab fa-youtube"],
+      ["https://twitter.com/codingo_", "fab fa-twitter"],
+      ["https://www.facebook.com/codingo", "fab fa-facebook"],
+      ["https://github.com/codingo", "fab fa-github"],
+      ["https://twitch.tv/codingo_", "fab fa-twitch"],
+      ["https://codingo.io", "fas fa-globe"]
+    ]
+  },
+  {
+    "name": "Gynvael Coldwind",
+    "location": "Zürich, Switzerland",
+    "timezone": "CET (GMT+1)",
+    "avatar": "gynvael.jpg",
+    "schedule": "Most Wednesdays 20:00",
+    "tags": ["programming", "security/hacking", "CTF (all categories)", "electronics", "intermediate-advance level"],
+    "links": [
+      ["https://www.youtube.com/user/GynvaelEN", "fab fa-youtube"],
+      ["https://twitter.com/gynvael", "fab fa-twitter"],
+      ["https://gynvael.coldwind.pl", "fas fa-globe"],
+      ["https://github.com/gynvael", "fab fa-github"]
+    ]
+  },
+  {
+    "name": "Zeta Two",
+    "location": "Stockholm, Sweden",
+    "timezone": "CET (GMT+1)",
+    "avatar": "zetatwo.jpg",
+    "schedule": "Ad-hoc, plan to start doing it regularly weekly/bi-weekly",
+    "tags": ["CTF challenges", "pwnables", "reverse engineering"],
+    "links": [
+      ["https://youtube.com/ZetaTwo", "fab fa-youtube"],
+      ["https://zeta-two.com", "fas fa-globe"],
+      ["https://twitter.com/ZetaTwo", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Rob Fuller",
+    "location": "",
+    "timezone": "EST",
+    "avatar": "robfuller.jpg",
+    "schedule": "Wednesdays, 21:00 EST",
+    "tags": [],
+    "links": [
+      ["https://twitch.tv/mub1x", "fab fa-twitch"],
+      ["https://malicious.link", "fas fa-globe"],
+      ["https://twitter.com/mubix", "fab fa-twitter"],
+      ["https://github.com/mubix", "fab fa-github"]
+    ]
+  },
+  {
+    "name": "Justin Steven",
+    "location": "",
+    "timezone": "",
+    "avatar": "justinsteven.jpg",
+    "schedule": "",
+    "tags": ["Binary CTF exploitation"],
+    "links": [
+      ["https://youtube.com/justinsteven", "fab fa-youtube"],
+      ["https://twitch.tv/justinsteven", "fab fa-twitch"],
+      ["https://twitter.com/justinsteven", "fab fa-twitter"],
+      ["https://github.com/justinsteven", "fab fa-github"]
+    ]
+  },
+  {
+    "name": "Murmus",
+    "location": "",
+    "timezone": "EST (UTC-5)",
+    "avatar": "murmus.jpg",
+    "schedule": "Tuesdays, 15:00 EST, 2-3h",
+    "tags": ["Binary Exploitation", "general VR stuff"],
+    "links": [
+      ["https://youtube.com/MurmusCTF", "fab fa-youtube"],
+      ["https://twitter.com/MurmusCTF", "fab fa-twitter"],
+      ["https://github.com/MurmusCTF", "fab fa-github"]
+    ]
+  },
+  {
+    "name": "LiveOverflow",
+    "location": "Germany",
+    "timezone": "CET (GMT+1)",
+    "avatar": "liveoverflow.jpg",
+    "schedule": "Aiming for once a week",
+    "tags": ["CTF Challenges", "general IT security"],
+    "links": [
+      ["https://liveoverflow.com", "fas fa-globe"],
+      ["https://youtube.com/LiveOverflowCTF", "fab fa-youtube"],
+      ["https://twitch.tv/LiveOverflow", "fab fa-twitch"],
+      ["https://twitter.com/LiveOverflow", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Josh Watson",
+    "location": "",
+    "timezone": "PST (UTC-8)",
+    "avatar": "joshwatson.jpg",
+    "schedule": "Tuesdays/Thursdays, 15:00 PST, ~3h, and most Sundays 19:00 PST, ~3h",
+    "tags": ["binary ninja", "reverse engineering", "pwnables", "crackmes", "tool building"],
+    "links": [
+      ["https://twitch.tv/josh_watson", "fab fa-twitch"],
+      ["https://twitter.com/josh_watson", "fab fa-twitter"],
+      ["https://github.com/joshwatson", "fab fa-github"]
+    ]
+  },
+  {
+    "name": "TheColonial",
+    "location": "Sunshine Coast, Australia",
+    "timezone": "AEST (GMT+10)",
+    "avatar": "thecolonial.jpg",
+    "schedule": "Tuesdays 20:00 AEST (2+ hours)",
+    "tags": ["CTF Challenges", "Binary Exploitation", "Reversing", "Tool Development"],
+    "links": [
+      ["https://youtube.com/OJReeves", "fab fa-youtube"],
+      ["https://twitch.tv/ojreeves", "fab fa-twitch"],
+      ["https://buffered.io", "fas fa-globe"],
+      ["https://twitter.com/thecolonial", "fab fa-twitter"],
+      ["https://github.com/oj", "fab fa-github"],
+      ["https://patreon.com/ojreeves", "fab fa-patreon"],
+      ["https://ko-fi.com/ojreeves", "fas fa-coffee"],
+      ["https://vimeo.com/ojreeves", "fab fa-vimeo-v"]
+    ]
+  },
+  {
+    "name": "TheBlindHacker",
+    "location": "Washington DC",
+    "timezone": "EST (UTC-5)",
+    "avatar": "theblindhacker.jpg",
+    "schedule": "Wednesdays 18:00, Fridays 15:00 Saturdays 11:00 EST",
+    "tags": ["CTF challenges", "System Basics", "Build a CTF", "Hacking AD"],
+    "links": [
+      ["https://twitch.tv/theblindhacker", "fab fa-twitch"],
+      ["https://twitter.com/TheBlindHacker", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Derek Rook",
+    "location": "",
+    "timezone": "",
+    "avatar": "rook.jpg",
+    "schedule": "infrequently, typically Sunday afternoons, sometimes random week nights",
+    "tags": ["CTF/wargame walkthroughs", "Web apps", "network", "pen testing"],
+    "links": [
+      ["https://youtube.com/derekrook/live", "fab fa-youtube"],
+      ["https://twitch.tv/r00k_infosec", "fab fa-twitch"],
+      ["https://r00k.io", "fas fa-globe"],
+      ["https://twitter.com/_r00k_", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Vixxen/Spookphia",
+    "location": "UK",
+    "timezone": "UTC+0",
+    "avatar": "spookphia.jpg",
+    "schedule": "Weekly - Wednesday at 20:00 UTC",
+    "tags": ["Retired Hack the Box boxes"],
+    "links": [
+      ["https://twitter.com/spookphia", "fab fa-twitter"],
+      ["https://twitter.com/Vixxen_OP", "fab fa-twitter"],
+      ["https://twitch.tv/Vixxen_TV", "fab fa-twitch"]
+    ]
+  },
+  {
+    "name": "Nahamsec",
+    "location": "California",
+    "timezone": "",
+    "avatar": "nahamsec.jpg",
+    "schedule": "Wednesdays, 21:00 PT",
+    "tags": ["Web App Hacking", "Bug Bounties"],
+    "links": [
+      ["https://youtube.com/nahamsec", "fab fa-youtube"],
+      ["https://twitch.tv/nahamsec", "fab fa-twitch"],
+      ["https://twitter.com/nahamsec", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Katie / InsiderPhD",
+    "location": "UK",
+    "timezone": "UTC+0",
+    "avatar": "insiderphd.jpg",
+    "schedule": "Videos most weeks, Wednesdays 16:00 GMT/BST",
+    "tags": ["Bug Bounties", "web app hacking"],
+    "links": [
+      ["https://youtube.com/RapidBug", "fab fa-youtube"],
+      ["https://twitter.com/InsiderPhD", "fab fa-twitter"],
+      ["https://github.com/InsiderPhD", "fab fa-github"]
+    ]
+  },
+  {
+    "name": "MrTurvey",
+    "location": "Buckinghamshire, UK",
+    "timezone": "UTC+0",
+    "avatar": "mrturvey.jpg",
+    "schedule": "Mondays 17:00 UTC",
+    "tags": ["PenTesting Tutorials", "HackTheBox", "InfoSec Interviews"],
+    "links": [
+      ["https://youtube.com/mrturvey", "fab fa-youtube"],
+      ["https://twitter.com/TurvSec", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Pascal / Hacksplained",
+    "location": "Austria",
+    "timezone": "CET",
+    "avatar": "hacksplained.jpg",
+    "schedule": "Wednesdays, 21:00 CET",
+    "tags": ["pentesting", "bug bounty", "motivational"],
+    "links": [
+      ["https://youtube.com/hacksplained", "fab fa-youtube"],
+      ["https://twitter.com/PascalSec", "fab fa-twitter"],
+      ["https://twitter.com/Hacksplained", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Farah Hawa",
+    "location": "India",
+    "timezone": "IST",
+    "avatar": "farahhawa.jpg",
+    "schedule": "New video every 10 days",
+    "tags": ["bug bounty", "bugs found in web apps"],
+    "links": [
+      ["https://youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg", "fab fa-youtube"],
+      ["https://twitter.com/farah_hawa01", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "247CTF",
+    "location": "Australia",
+    "timezone": "AEST (GMT +10)",
+    "avatar": "247ctf.jpg",
+    "schedule": "No :)",
+    "tags": ["CTF game host", "CTF fundamentals YT videos"],
+    "links": [
+      ["https://youtube.com/247CTF", "fab fa-youtube"],
+      ["https://247ctf.com", "fas fa-globe"],
+      ["https://twitter.com/247CTF", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Peer Heinen / AshF0x",
+    "location": "Luxembourg",
+    "timezone": "CEST",
+    "avatar": "ashfox.jpg",
+    "schedule": "Monday trough Friday, weekends optional",
+    "tags": ["THM", "HTB", "Coding", "Hardware", "Learning/Beginner oriented content"],
+    "links": [
+      ["https://twitch.tv/ash_f0x", "fab fa-twitch"],
+      ["https://twitter.com/0xAshFox", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "hakluke / Luke Stephens",
+    "location": "Brisbane, Australia",
+    "timezone": "AEST (GMT+10)",
+    "avatar": "hakluke.jpg",
+    "schedule": "Sporadic",
+    "tags": ["programming", "hacking", "security", "bug bounties", "mindset", "motivation"],
+    "links": [
+      ["https://www.youtube.com/hakluke", "fab fa-youtube"],
+      ["https://twitter.com/hakluke", "fab fa-twitter"],
+      ["https://medium.com/@hakluke", "fab fa-medium"],
+      ["https://github.com/hakluke_", "fab fa-github"],
+      ["https://instagram.com/hakluke_", "fab fa-instagram"]
+    ]
+  },
+  {
+    "name": "Reconless",
+    "location": "",
+    "timezone": "CET",
+    "avatar": "reconless.jpg",
+    "schedule": "",
+    "tags": ["WebAppSec", "Bug Bounties"],
+    "links": [
+      ["https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ", "fab fa-youtube"],
+      ["https://twitter.com/0xReconless", "fab fa-twitter"]
+    ]
     },
     {
-        "name": "Gynvael Coldwind",
-        "location": "Zürich, Switzerland",
-        "timezone": "CET (GMT+1)",
-        "avatar": "gynvael.jpg",
-        "schedule": "Most Wednesdays 20:00",
-        "tags": ["programming", "security/hacking", "CTF (all categories)", "electronics", "intermediate-advance level"],
-        "links": [
-            ["https://www.youtube.com/user/GynvaelEN", "fab fa-youtube"],
-            ["https://twitter.com/gynvael", "fab fa-twitter"],
-            ["https://gynvael.coldwind.pl", "fas fa-globe"],
-            ["https://github.com/gynvael", "fab fa-github"]
-        ]
-    },
-    {
-        "name": "Zeta Two",
-        "location": "Stockholm, Sweden",
-        "timezone": "CET (GMT+1)",
-        "avatar": "zetatwo.jpg",
-        "schedule": "Ad-hoc, plan to start doing it regularly weekly/bi-weekly",
-        "tags": ["CTF challenges", "pwnables", "reverse engineering"],
-        "links": [
-            ["https://youtube.com/ZetaTwo", "fab fa-youtube"],
-            ["https://zeta-two.com", "fas fa-globe"],
-            ["https://twitter.com/ZetaTwo", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Rob Fuller",
-        "location": "",
-        "timezone": "EST",
-        "avatar": "robfuller.jpg",
-        "schedule": "Wednesdays, 21:00 EST",
-        "tags": [],
-        "links": [
-            ["https://twitch.tv/mub1x", "fab fa-twitch"],
-            ["https://malicious.link", "fas fa-globe"],
-            ["https://twitter.com/mubix", "fab fa-twitter"],
-            ["https://github.com/mubix", "fab fa-github"]
-        ]
-    },
-    {
-        "name": "Justin Steven",
-        "location": "",
-        "timezone": "",
-        "avatar": "justinsteven.jpg",
-        "schedule": "",
-        "tags": ["Binary CTF exploitation"],
-        "links": [
-            ["https://youtube.com/justinsteven", "fab fa-youtube"],
-            ["https://twitch.tv/justinsteven", "fab fa-twitch"],
-            ["https://twitter.com/justinsteven", "fab fa-twitter"],
-            ["https://github.com/justinsteven", "fab fa-github"]
-        ]
-    },
-    {
-        "name": "Murmus",
-        "location": "",
-        "timezone": "EST (UTC-5)",
-        "avatar": "murmus.jpg",
-        "schedule": "Tuesdays, 15:00 EST, 2-3h",
-        "tags": ["Binary Exploitation", "general VR stuff"],
-        "links": [
-            ["https://youtube.com/MurmusCTF", "fab fa-youtube"],
-            ["https://twitter.com/MurmusCTF", "fab fa-twitter"],
-            ["https://github.com/MurmusCTF", "fab fa-github"]
-        ]
-    },
-    {
-        "name": "LiveOverflow",
-        "location": "Germany",
-        "timezone": "CET (GMT+1)",
-        "avatar": "liveoverflow.jpg",
-        "schedule": "Aiming for once a week",
-        "tags": ["CTF Challenges", "general IT security"],
-        "links": [
-            ["https://liveoverflow.com", "fas fa-globe"],
-            ["https://youtube.com/LiveOverflowCTF", "fab fa-youtube"],
-            ["https://twitch.tv/LiveOverflow", "fab fa-twitch"],
-            ["https://twitter.com/LiveOverflow", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Josh Watson",
-        "location": "",
-        "timezone": "PST (UTC-8)",
-        "avatar": "joshwatson.jpg",
-        "schedule": "Tuesdays/Thursdays, 15:00 PST, ~3h, and most Sundays 19:00 PST, ~3h",
-        "tags": ["binary ninja", "reverse engineering", "pwnables", "crackmes", "tool building"],
-        "links": [
-            ["https://twitch.tv/josh_watson", "fab fa-twitch"],
-            ["https://twitter.com/josh_watson", "fab fa-twitter"],
-            ["https://github.com/joshwatson", "fab fa-github"]
-        ]
-    },
-    {
-        "name": "TheColonial",
-        "location": "Sunshine Coast, Australia",
-        "timezone": "AEST (GMT+10)",
-        "avatar": "thecolonial.jpg",
-        "schedule": "Tuesdays 20:00 AEST (2+ hours)",
-        "tags": ["CTF Challenges", "Binary Exploitation", "Reversing", "Tool Development"],
-        "links": [
-            ["https://youtube.com/OJReeves", "fab fa-youtube"],
-            ["https://twitch.tv/ojreeves", "fab fa-twitch"],
-            ["https://buffered.io", "fas fa-globe"],
-            ["https://twitter.com/thecolonial", "fab fa-twitter"],
-            ["https://github.com/oj", "fab fa-github"],
-            ["https://patreon.com/ojreeves", "fab fa-patreon"],
-            ["https://ko-fi.com/ojreeves", "fas fa-coffee"],
-            ["https://vimeo.com/ojreeves", "fab fa-vimeo-v"]
-        ]
-    },
-    {
-        "name": "TheBlindHacker",
-        "location": "Washington DC",
-        "timezone": "EST (UTC-5)",
-        "avatar": "theblindhacker.jpg",
-        "schedule": "Wednesdays 18:00, Fridays 15:00 Saturdays 11:00 EST",
-        "tags": ["CTF challenges", "System Basics", "Build a CTF", "Hacking AD"],
-        "links": [
-            ["https://twitch.tv/theblindhacker", "fab fa-twitch"],
-            ["https://twitter.com/TheBlindHacker", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Derek Rook",
-        "location": "",
-        "timezone": "",
-        "avatar": "rook.jpg",
-        "schedule": "infrequently, typically Sunday afternoons, sometimes random week nights",
-        "tags": ["CTF/wargame walkthroughs", "Web apps", "network", "pen testing"],
-        "links": [
-            ["https://youtube.com/derekrook/live", "fab fa-youtube"],
-            ["https://twitch.tv/r00k_infosec", "fab fa-twitch"],
-            ["https://r00k.io", "fas fa-globe"],
-            ["https://twitter.com/_r00k_", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Vixxen/Spookphia",
-        "location": "UK",
-        "timezone": "UTC+0",
-        "avatar": "spookphia.jpg",
-        "schedule": "Weekly - Wednesday at 20:00 UTC",
-        "tags": ["Retired Hack the Box boxes"],
-        "links": [
-            ["https://twitter.com/spookphia", "fab fa-twitter"],
-            ["https://twitter.com/Vixxen_OP", "fab fa-twitter"],
-            ["https://twitch.tv/Vixxen_TV", "fab fa-twitch"]
-        ]
-    },
-    {
-        "name": "Nahamsec",
-        "location": "California",
-        "timezone": "",
-        "avatar": "nahamsec.jpg",
-        "schedule": "Wednesdays, 21:00 PT",
-        "tags": ["Web App Hacking", "Bug Bounties"],
-        "links": [
-            ["https://youtube.com/nahamsec", "fab fa-youtube"],
-            ["https://twitch.tv/nahamsec", "fab fa-twitch"],
-            ["https://twitter.com/nahamsec", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Katie / InsiderPhD",
-        "location": "UK",
-        "timezone": "UTC+0",
-        "avatar": "insiderphd.jpg",
-        "schedule": "Videos most weeks, Wednesdays 16:00 GMT/BST",
-        "tags": ["Bug Bounties", "web app hacking"],
-        "links": [
-            ["https://youtube.com/RapidBug", "fab fa-youtube"],
-            ["https://twitter.com/InsiderPhD", "fab fa-twitter"],
-            ["https://github.com/InsiderPhD", "fab fa-github"]
-        ]
-    },
-    {
-        "name": "MrTurvey",
-        "location": "Buckinghamshire, UK",
-        "timezone": "UTC+0",
-        "avatar": "mrturvey.jpg",
-        "schedule": "Mondays 17:00 UTC",
-        "tags": ["PenTesting Tutorials", "HackTheBox", "InfoSec Interviews"],
-        "links": [
-            ["https://youtube.com/mrturvey", "fab fa-youtube"],
-            ["https://twitter.com/TurvSec", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Pascal / Hacksplained",
-        "location": "Austria",
-        "timezone": "CET",
-        "avatar": "hacksplained.jpg",
-        "schedule": "Wednesdays, 21:00 CET",
-        "tags": ["pentesting", "bug bounty", "motivational"],
-        "links": [
-            ["https://youtube.com/hacksplained", "fab fa-youtube"],
-            ["https://twitter.com/PascalSec", "fab fa-twitter"],
-            ["https://twitter.com/Hacksplained", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Farah Hawa",
-        "location": "India",
-        "timezone": "IST",
-        "avatar": "farahhawa.jpg",
-        "schedule": "New video every 10 days",
-        "tags": ["bug bounty", "bugs found in web apps"],
-        "links": [
-            ["https://youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg", "fab fa-youtube"],
-            ["https://twitter.com/farah_hawa01", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "247CTF",
-        "location": "Australia",
-        "timezone": "AEST (GMT +10)",
-        "avatar": "247ctf.jpg",
-        "schedule": "No :)",
-        "tags": ["CTF game host", "CTF fundamentals YT videos"],
-        "links": [
-            ["https://youtube.com/247CTF", "fab fa-youtube"],
-            ["https://247ctf.com", "fas fa-globe"],
-            ["https://twitter.com/247CTF", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "Peer Heinen / AshF0x",
-        "location": "Luxembourg",
-        "timezone": "CEST",
-        "avatar": "ashfox.jpg",
-        "schedule": "Monday trough Friday, weekends optional",
-        "tags": ["THM", "HTB", "Coding", "Hardware", "Learning/Beginner oriented content"],
-        "links": [
-            ["https://twitch.tv/ash_f0x", "fab fa-twitch"],
-            ["https://twitter.com/0xAshFox", "fab fa-twitter"]
-        ]
-    },
-    {
-        "name": "hakluke / Luke Stephens",
-        "location": "Brisbane, Australia",
-        "timezone": "AEST (GMT+10)",
-        "avatar": "hakluke.jpg",
-        "schedule": "Sporadic",
-        "tags": ["programming", "hacking", "security", "bug bounties", "mindset", "motivation"],
-        "links": [
-            ["https://www.youtube.com/hakluke", "fab fa-youtube"],
-            ["https://twitter.com/hakluke", "fab fa-twitter"],
-            ["https://medium.com/@hakluke", "fab fa-medium"],
-            ["https://github.com/hakluke_", "fab fa-github"],
-            ["https://instagram.com/hakluke_", "fab fa-instagram"]
-        ]
-    },
-    {
-        "name": "Reconless",
-        "location": "",
-        "timezone": "CET",
-        "avatar": "reconless.jpg",
-        "schedule": "",
-        "tags": ["WebAppSec", "Bug Bounties"],
-        "links": [
-            ["https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ", "fab fa-youtube"],
-            ["https://twitter.com/0xReconless", "fab fa-twitter"]
-        ]
-     },
-     {
-        "name": "John Hammond",
-        "location": "United States",
-        "timezone": "EST",
-        "avatar": "johnhammond.png",
-        "schedule": "Sporadic",
-        "tags": ["Capture the Flag", "InfoSec Security Conferences", "HackTheBox/TryHackMe", "Online Wargames", "Pentesting"],
-        "links": [
-            ["https://www.youtube.com/johnhammond010", "fab fa-youtube"],
-            ["https://twitter.com/_johnhammond", "fab fa-twitter"],
-            ["https://github.com/JohnHammond", "fab fa-github"],
-            ["https://www.instagram.com/_johnhammond", "fab fa-instagram"],
-            ["https://twitch.tv/johnhammond010", "fab fa-twitch"],
-            ["https://patreon.com/johnhammond010", "fab fa-patreon"],
-            ["https://www.linkedin.com/in/johnhammond010/", "fab fa-linkedin"]
-        ]
-    },
-    {
-        "name": "Sebastian / superhero1",
-        "location": "Germany",
-        "timezone": "CEST",
-        "avatar": "superhero1.jpg",
-        "schedule": "bi-weekly",
-        "tags": ["Capture the Flag", "HackTheBox/TryHackMe", "Hardware", "Pentesting"],
-        "links": [
-            ["https://www.youtube.com/superhero1", "fab fa-youtube"],
-            ["https://twitter.com/_superhero1", "fab fa-twitter"],
-            ["https://twitch.tv/sup3rhero1", "fab fa-twitch"],
-            ["https://ko-fi.com/superhero1", "fas fa-coffee"]
-        ]
-    },
-    {
-        "name": "PinkDraconian",
-        "location": "Belgium",
-        "timezone": "CEST",
-        "avatar": "pinkdraconian.png",
-        "schedule": "Weekly YouTube and TikTok uploads",
-        "tags": ["Capture the Flag", "CyberSecLabs", "HackTheBox", "Online Wargames", "Pentesting"],
-        "links": [
-            ["https://www.youtube.com/c/PinkDraconian", "fab fa-youtube"],
-            ["https://twitter.com/PinkDraconian", "fab fa-twitter"],
-            ["https://github.com/PinkDraconian", "fab fa-github"],
-            ["https://www.instagram.com/robbevanroey/", "fab fa-instagram"],
-            ["https://www.linkedin.com/in/robbe-van-roey-365666195/", "fab fa-linkedin"],
-            ["http://pinkdraconian.d4rkc0de.com/", "fas fa-globe"],
-            ["https://www.tiktok.com/@pinkdraconian", "fas fa-globe"]
-        ]
-    },
-    {
-        "name": "Cyber Warrior Studios",
-        "location": "United States",
-        "timezone": "EDT",
-        "avatar": "CyberWarriorStudios_Logo_2_Transparent_B.png",
-        "schedule": "Mon, Tues, Wed, Fri, YouTube uploads, Patreon Podcast, and Security Happy Hour Podcast, occasional Live Friday Nights Security Happy Hour, sporadic other days",
-        "tags": ["Cybersecurity", "Motivational Monday", "Technical Tuesday", "WTF! Wednesday", "Security Happy Hour", "Pentesting", "ParrotSec", "Kali"],
-        "links": [
-            ["https://www.youtube.com/c/SchellerCyberSecurity", "fab fa-youtube"],
-            ["https://www.patreon.com/CyberWarriorStudios", "fab fa-patreon"],
-            ["https://twitter.com/SCS_Pittsburgh", "fab fa-twitter"],
-            ["https://www.instagram.com/dschellerjr/", "fab fa-instagram"],
-            ["https://www.linkedin.com/in/dschellerjr", "fab fa-linkedin"],
-            ["https://www.cyberwarriorstudios.com", "fas fa-globe"],
-            ["https://www.schellercybersecurity.com", "fas fa-globe"]
-        ]
-    },
-    {
-        "name": "Stefan Rows / Ceos3c",
-        "location": "Germany",
-        "timezone": "CET / GMT+01",
-        "avatar": "Ceos3c.jpg",
-        "schedule": "Nothing fixed. Back to fixed in ~January",
-        "tags": ["Cybersecurity", "Coding", "Web Development", "Linux", "Open Source", "Bug Bounties", "Web Development", "Productivity"],
-        "links": [
-            ["https://www.youtube.com/c/ceos3ctutorials", "fab fa-youtube"],
-            ["https://www.patreon.com/ceos3c", "fab fa-patreon"],
-            ["https://www.twitter.com/ceos3c", "fab fa-twitter"],
-            ["https://www.instagram.com/stefanrows", "fab fa-instagram"],
-            ["https://www.linkedin.com/in/stefan-rosanitsch-051aaa65/", "fab fa-linkedin"],
-            ["https://www.facebook.com/ceos3c", "fab fa-facebook"],
-            ["https://www.ceos3c.com/", "fas fa-globe"],
-            ["https://www.pinterest.com/ceos3c/", "fas fa-pinterest"]
-        ]
-    },
-    {
-        "name": "Zaid Sabih / zSecurity",
-        "location": "Dublin, Ireland",
-        "timezone": "GMT",
-        "avatar": "zaid.jpg",
-        "schedule": "Most Thursdays 14:00",
-        "tags": ["Ethical Hacking", "Cyber Security"],
-        "links": [
-            ["https://www.youtube.com/c/zSecurity", "fab fa-youtube"],
-            ["https://www.facebook.com/ZSecurity-1453250781458287/", "fab fa-facebook"],
-            ["https://www.linkedin.com/company/zsecurity-org/", "fab fa-linkedin"],
-            ["https://www.twitter.com/_zSecurity_", "fab fa-twitter"],
-            ["https://www.instagram.com/zsecurity_org/", "fab fa-instagram"]
-        ]
-    },
-    {
-        "name": "Lupin / Roni Carta",
-        "location": "France",
-        "timezone": "GMT+2",
-        "avatar": "lupin.png",
-        "schedule": "Not Fixed",
-        "tags": ["Ethical Hacking", "Cyber Security", "XSS", "Pentesting"],
-        "links": [
-            ["https://www.youtube.com/watch?v=Yk0oEhD_9hw", "fab fa-youtube"],
-            ["https://www.linkedin.com/in/roni-carta-bba45b1a3/", "fab fa-linkedin"],
-            ["https://twitter.com/0xLupin/", "fab fa-twitter"],
-            ["https://twitch.tv/0xLupin", "fab fa-twitch"]
-        ]
-    },
-    {
-        "name": "ippSec",
-        "location": "United States",
-        "timezone": "EDT",
-        "avatar": "ippsec.jpg",
-        "schedule": "Saturdays",
-        "tags": ["Capture the Flag", "HackTheBox"],
-        "links": [
-            ["https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA", "fab fa-youtube"],
-            ["https://twitter.com/ippsec", "fab fa-twitter"]
-        ]
-    },
-
-    {
-        "name": "HackerSploit/Alexis",
-        "location": "Kenya",
-        "timezone": "EAT",
-        "avatar": "Alexis.jpg",
-        "schedule": "2-4 Videos Per Week",
-        "tags": ["Cybersecurity", "Penetration Testing", "Web App Pentesting", "HackTheBox", "TryHackMe", "Linux Security", "Python", "Kali"],
-        "links": [
-            ["https://www.youtube.com/HackerSploit", "fab fa-youtube"],
-            ["https://www.patreon.com/HackerSploit", "fab fa-patreon"],
-            ["https://twitter.com/HackerSploit", "fab fa-twitter"],
-            ["https://www.instagram.com/hackersploit/", "fab fa-instagram"],
-            ["https://www.linkedin.com/in/alexisahmed", "fab fa-linkedin"],
-            ["https://hackersploit.org", "fas fa-globe"],
-            ["https://hackersploit.academy", "fas fa-globe"]
-        ]
-    }
+    "name": "John Hammond",
+    "location": "United States",
+    "timezone": "EST",
+    "avatar": "johnhammond.png",
+    "schedule": "Sporadic",
+    "tags": ["Capture the Flag", "InfoSec Security Conferences", "HackTheBox/TryHackMe", "Online Wargames", "Pentesting"],
+    "links": [
+      ["https://www.youtube.com/johnhammond010", "fab fa-youtube"],
+      ["https://twitter.com/_johnhammond", "fab fa-twitter"],
+      ["https://github.com/JohnHammond", "fab fa-github"],
+      ["https://www.instagram.com/_johnhammond", "fab fa-instagram"],
+      ["https://twitch.tv/johnhammond010", "fab fa-twitch"],
+      ["https://patreon.com/johnhammond010", "fab fa-patreon"],
+      ["https://www.linkedin.com/in/johnhammond010/", "fab fa-linkedin"]
+    ]
+  },
+  {
+    "name": "Sebastian / superhero1",
+    "location": "Germany",
+    "timezone": "CEST",
+    "avatar": "superhero1.jpg",
+    "schedule": "bi-weekly",
+    "tags": ["Capture the Flag", "HackTheBox/TryHackMe", "Hardware", "Pentesting"],
+    "links": [
+      ["https://www.youtube.com/superhero1", "fab fa-youtube"],
+      ["https://twitter.com/_superhero1", "fab fa-twitter"],
+      ["https://twitch.tv/sup3rhero1", "fab fa-twitch"],
+      ["https://ko-fi.com/superhero1", "fas fa-coffee"]
+    ]
+  },
+  {
+    "name": "PinkDraconian",
+    "location": "Belgium",
+    "timezone": "CEST",
+    "avatar": "pinkdraconian.png",
+    "schedule": "Weekly YouTube and TikTok uploads",
+    "tags": ["Capture the Flag", "CyberSecLabs", "HackTheBox", "Online Wargames", "Pentesting"],
+    "links": [
+      ["https://www.youtube.com/c/PinkDraconian", "fab fa-youtube"],
+      ["https://twitter.com/PinkDraconian", "fab fa-twitter"],
+      ["https://github.com/PinkDraconian", "fab fa-github"],
+      ["https://www.instagram.com/robbevanroey/", "fab fa-instagram"],
+      ["https://www.linkedin.com/in/robbe-van-roey-365666195/", "fab fa-linkedin"],
+      ["http://pinkdraconian.d4rkc0de.com/", "fas fa-globe"],
+      ["https://www.tiktok.com/@pinkdraconian", "fas fa-globe"]
+    ]
+  },
+  {
+    "name": "Cyber Warrior Studios",
+    "location": "United States",
+    "timezone": "EDT",
+    "avatar": "CyberWarriorStudios_Logo_2_Transparent_B.png",
+    "schedule": "Mon, Tues, Wed, Fri, YouTube uploads, Patreon Podcast, and Security Happy Hour Podcast, occasional Live Friday Nights Security Happy Hour, sporadic other days",
+    "tags": ["Cybersecurity", "Motivational Monday", "Technical Tuesday", "WTF! Wednesday", "Security Happy Hour", "Pentesting", "ParrotSec", "Kali"],
+    "links": [
+      ["https://www.youtube.com/c/SchellerCyberSecurity", "fab fa-youtube"],
+      ["https://www.patreon.com/CyberWarriorStudios", "fab fa-patreon"],
+      ["https://twitter.com/SCS_Pittsburgh", "fab fa-twitter"],
+      ["https://www.instagram.com/dschellerjr/", "fab fa-instagram"],
+      ["https://www.linkedin.com/in/dschellerjr", "fab fa-linkedin"],
+      ["https://www.cyberwarriorstudios.com", "fas fa-globe"],
+      ["https://www.schellercybersecurity.com", "fas fa-globe"]
+    ]
+  },
+  {
+    "name": "Stefan Rows / Ceos3c",
+    "location": "Germany",
+    "timezone": "CET / GMT+01",
+    "avatar": "Ceos3c.jpg",
+    "schedule": "Nothing fixed. Back to fixed in ~January",
+    "tags": ["Cybersecurity", "Coding", "Web Development", "Linux", "Open Source", "Bug Bounties", "Web Development", "Productivity"],
+    "links": [
+      ["https://www.youtube.com/c/ceos3ctutorials", "fab fa-youtube"],
+      ["https://www.patreon.com/ceos3c", "fab fa-patreon"],
+      ["https://www.twitter.com/ceos3c", "fab fa-twitter"],
+      ["https://www.instagram.com/stefanrows", "fab fa-instagram"],
+      ["https://www.linkedin.com/in/stefan-rosanitsch-051aaa65/", "fab fa-linkedin"],
+      ["https://www.facebook.com/ceos3c", "fab fa-facebook"],
+      ["https://www.ceos3c.com/", "fas fa-globe"],
+      ["https://www.pinterest.com/ceos3c/", "fas fa-pinterest"]
+    ]
+  },
+  {
+    "name": "Zaid Sabih / zSecurity",
+    "location": "Dublin, Ireland",
+    "timezone": "GMT",
+    "avatar": "zaid.jpg",
+    "schedule": "Most Thursdays 14:00",
+    "tags": ["Ethical Hacking", "Cyber Security"],
+    "links": [
+      ["https://www.youtube.com/c/zSecurity", "fab fa-youtube"],
+      ["https://www.facebook.com/ZSecurity-1453250781458287/", "fab fa-facebook"],
+      ["https://www.linkedin.com/company/zsecurity-org/", "fab fa-linkedin"],
+      ["https://www.twitter.com/_zSecurity_", "fab fa-twitter"],
+      ["https://www.instagram.com/zsecurity_org/", "fab fa-instagram"]
+    ]
+  },
+  {
+    "name": "Lupin / Roni Carta",
+    "location": "France",
+    "timezone": "GMT+2",
+    "avatar": "lupin.png",
+    "schedule": "Not Fixed",
+    "tags": ["Ethical Hacking", "Cyber Security", "XSS", "Pentesting"],
+    "links": [
+      ["https://www.youtube.com/watch?v=Yk0oEhD_9hw", "fab fa-youtube"],
+      ["https://www.linkedin.com/in/roni-carta-bba45b1a3/", "fab fa-linkedin"],
+      ["https://twitter.com/0xLupin/", "fab fa-twitter"],
+      ["https://twitch.tv/0xLupin", "fab fa-twitch"]
+    ]
+  },
+  {
+    "name": "ippSec",
+    "location": "United States",
+    "timezone": "EDT",
+    "avatar": "ippsec.jpg",
+    "schedule": "Saturdays",
+    "tags": ["Capture the Flag", "HackTheBox"],
+    "links": [
+      ["https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA", "fab fa-youtube"],
+      ["https://twitter.com/ippsec", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "HackerSploit/Alexis",
+    "location": "Kenya",
+    "timezone": "EAT",
+    "avatar": "Alexis.jpg",
+    "schedule": "2-4 Videos Per Week",
+    "tags": ["Cybersecurity", "Penetration Testing", "Web App Pentesting", "HackTheBox", "TryHackMe", "Linux Security", "Python", "Kali"],
+    "links": [
+      ["https://www.youtube.com/HackerSploit", "fab fa-youtube"],
+      ["https://www.patreon.com/HackerSploit", "fab fa-patreon"],
+      ["https://twitter.com/HackerSploit", "fab fa-twitter"],
+      ["https://www.instagram.com/hackersploit/", "fab fa-instagram"],
+      ["https://www.linkedin.com/in/alexisahmed", "fab fa-linkedin"],
+      ["https://hackersploit.org", "fas fa-globe"],
+      ["https://hackersploit.academy", "fas fa-globe"]
+    ]
+  }
 ]

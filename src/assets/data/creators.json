@@ -4,7 +4,7 @@
         "location": "Atlanta, USA",
         "timezone": "EST (UTC-5)",
         "avatar": "Alpha.jpg",
-        "schedule": "InfoSec Unplugged Every Thursday @ 6PM EST", "Shooting for Mondays, Tuesdays, Thursdays and Fridays"
+        "schedule": "InfoSec Unplugged Every Thursday @ 6PM EST! Shooting for Mondays, Tuesdays, Thursdays and Fridays",
         "tags": ["InfoSec Unplugged", "podcast", "interviews", "ethical hacking", "CTF", "TryHackMe", "security", "gaming"],
         "links": [
             ["https://www.youtube.com/c/AlphaCyberSecurity", "fab fa-youtube"],

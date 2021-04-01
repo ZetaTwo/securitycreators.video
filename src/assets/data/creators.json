@@ -265,12 +265,16 @@
     "location": "Austria",
     "timezone": "CET",
     "avatar": "hacksplained.jpg",
-    "schedule": "Wednesdays, 21:00 CET",
+    "schedule": "1 video per week",
     "tags": ["pentesting", "bug bounty", "motivational"],
     "links": [
       ["https://youtube.com/hacksplained", "fab fa-youtube"],
       ["https://twitter.com/PascalSec", "fab fa-twitter"],
-      ["https://twitter.com/Hacksplained", "fab fa-twitter"]
+      ["https://twitter.com/Hacksplained", "fab fa-twitter"],
+      ["https://www.patreon.com/hacksplained", "fab fa-patreon"],
+      ["https://www.instagram.com/hacksplained/", "fab fa-instagram"],
+      ["https://www.buymeacoffee.com/hacksplained", "fas fa-coffee"],
+      ["https://hacksplained.it", "fas fa-globe"]
     ]
   },
   {

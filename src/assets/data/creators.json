@@ -498,5 +498,18 @@
       ["https://tib3rius.com", "fas fa-globe"],
       ["https://www.udemy.com/user/tib3rius/", "fas fa-globe"]
     ]
+  },
+  {
+    "name": "CryptoCat",
+    "location": "United Kingdom",
+    "timezone": "GMT",
+    "avatar": "CryptoCat.jpg",
+    "schedule": "1-3 Videos Per Week",
+    "tags": ["Binary Exploitation", "Reverse Engineering", "Offensive Security", "Penetration Testing", "Malware Analysis", "CTF", "Pwn", "HackTheBox"],
+    "links": [
+      ["https://www.youtube.com/c/CryptoCat23", "fab fa-youtube"],
+      ["https://twitter.com/_CryptoCat", "fab fa-twitter"],
+      ["https://www.linkedin.com/in/cryptocat", "fab fa-linkedin"]
+    ]
   }
 ]

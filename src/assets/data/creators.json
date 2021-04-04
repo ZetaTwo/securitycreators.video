@@ -481,5 +481,22 @@
       ["https://hackersploit.org", "fas fa-globe"],
       ["https://hackersploit.academy", "fas fa-globe"]
     ]
+  },
+  {
+    "name": "Tib3rius",
+    "location": "United States",
+    "timezone": "EST (UTC-5)",
+    "avatar": "Tib3rius.png",
+    "schedule": "Sporadic",
+    "tags": ["Web App Hacking", "InfoSec / Cybersecurity", "Penetration Testing", "Burp Suite Pro", "TryHackMe", "Portswigger Web Academy", "HackTheBox"],
+    "links": [
+      ["https://twitter.com/0xTib3rius", "fab fa-twitter"],
+      ["https://youtube.com/Tib3rius", "fab fa-youtube"],
+      ["https://twitch.tv/0xTib3rius", "fab fa-twitch"],
+      ["https://discord.gg/4qrvKMh", "fab fa-discord"],
+      ["https://buymeacoffee.com/Tib3rius", "fas fa-coffee"],
+      ["https://tib3rius.com", "fas fa-globe"],
+      ["https://www.udemy.com/user/tib3rius/", "fas fa-globe"]
+    ]
   }
 ]

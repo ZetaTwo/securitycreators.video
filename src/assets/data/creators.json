@@ -1,4 +1,18 @@
 [
+ {
+   "name": "SimplyCyber",
+   "location": "South Carolina, USA",
+   "timezone": "EST (UTC-5)",
+   "avatar": "Gerald_Auger_SimplyCyber.png",
+   "schedule": "New Videos Every Monday at Noon EST Helping YOU Make and Take a Cybersecurity Care$
+   "tags": ["Career", "Cybersecurity Awareness", "RED/BLUE TEAM", "Breaking into industry", "Mento$
+   "links": [
+     ["https://www.youtube.com/c/GeraldAuger", "fab fa-youtube"],
+     ["https://SimplyCyber.io/", "fas fa-globe"],
+     ["https://twitter.com/Gerald_Auger", "fab fa-twitter"],
+     ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"]
+     ["https://www.buymeacoffee.com/simplycyber", "fas fa-coffee"],    ]
+  },
   {
     "name": "STÖK",
     "location": "Sweden",

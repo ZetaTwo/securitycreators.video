@@ -139,6 +139,21 @@
     ]
   },
   {
+    "name": "0x4rk0",
+    "location": "Seattle",
+    "timezone": "PST (GMT-8)",
+    "avatar": "stok.jpg",
+    "schedule": "None, News Based",
+    "tags": ["OSINT", "Cybersecurity Awareness", "Vulnerability Management", "Fortune 100 SOC", "GEOINT"],
+    "links": [
+      ["https://youtube.com/c/0x4rko", "fab fa-youtube"],
+      ["https://bernardy.biz", "fas fa-globe"],
+      ["https://twitter.com/twuttersupport", "fab fa-twitter"],
+      ["https://instagram.com/0x4rk0", "fab fa-instagram"],
+      ["https://linkedin.com/in/codybernardy", "fab fa-linkedin"]
+    ]
+  },
+{
     "name": "LiveOverflow",
     "location": "Germany",
     "timezone": "CET (GMT+1)",

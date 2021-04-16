@@ -325,7 +325,7 @@
       ["https://www.youtube.com/hakluke", "fab fa-youtube"],
       ["https://twitter.com/hakluke", "fab fa-twitter"],
       ["https://medium.com/@hakluke", "fab fa-medium"],
-      ["https://github.com/hakluke_", "fab fa-github"],
+      ["https://github.com/hakluke", "fab fa-github"],
       ["https://instagram.com/hakluke_", "fab fa-instagram"]
     ]
   },
@@ -397,7 +397,7 @@
     "schedule": "Mon, Tues, Wed, Fri, YouTube uploads, Patreon Podcast, and Security Happy Hour Podcast, occasional Live Friday Nights Security Happy Hour, sporadic other days",
     "tags": ["Cybersecurity", "Motivational Monday", "Technical Tuesday", "WTF! Wednesday", "Security Happy Hour", "Pentesting", "ParrotSec", "Kali"],
     "links": [
-      ["https://www.youtube.com/c/SchellerCyberSecurity", "fab fa-youtube"],
+      ["https://www.youtube.com/c/CyberWarriorStudios", "fab fa-youtube"],
       ["https://www.patreon.com/CyberWarriorStudios", "fab fa-patreon"],
       ["https://twitter.com/SCS_Pittsburgh", "fab fa-twitter"],
       ["https://www.instagram.com/dschellerjr/", "fab fa-instagram"],
@@ -414,7 +414,7 @@
     "schedule": "Nothing fixed. Back to fixed in ~January",
     "tags": ["Cybersecurity", "Coding", "Web Development", "Linux", "Open Source", "Bug Bounties", "Web Development", "Productivity"],
     "links": [
-      ["https://www.youtube.com/c/ceos3ctutorials", "fab fa-youtube"],
+      ["https://youtube.com/user/Ceophreak", "fab fa-youtube"],
       ["https://www.patreon.com/ceos3c", "fab fa-patreon"],
       ["https://www.twitter.com/ceos3c", "fab fa-twitter"],
       ["https://www.instagram.com/stefanrows", "fab fa-instagram"],

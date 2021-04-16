@@ -523,5 +523,20 @@
       ["https://www.youtube.com/c0nd4", "fab fa-youtube"],
       ["https://twitter.com/0xConda", "fab fa-twitter"]
     ]
+  },
+  {
+    "name": "HackingSimplified",
+    "location": "India",
+    "timezone": "IST ( GMT+0530 )",
+    "avatar": "hackingsimplified.png",
+    "schedule": "New video every Week",
+    "tags": ["general security awareness","ctf", "android exploitation","web app exploitation", "bug bounty"],
+    "links": [
+      ["https://www.youtube.com/channel/UCARsgS1stRbRgh99E63Q3ng", "fab fa-youtube"],
+      ["https://twitter.com/AseemShrey", "fab fa-twitter"],
+      ["https://www.instagram.com/aseemshrey/", "fab fa-instagram"],
+      ["https://www.linkedin.com/in/aseemshrey", "fab fa-linkedin"],
+      ["https://aseemshrey.in", "fas fa-globe"]
+    ]
   }
 ]

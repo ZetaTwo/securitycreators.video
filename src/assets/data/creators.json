@@ -511,5 +511,17 @@
       ["https://twitter.com/_CryptoCat", "fab fa-twitter"],
       ["https://www.linkedin.com/in/cryptocat", "fab fa-linkedin"]
     ]
+  },
+  {
+    "name": "Conda",
+    "location": "USA",
+    "timezone": "EST",
+    "avatar": "conda.jpg",
+    "schedule": "Weekly Uploads",
+    "tags": ["Cyber Security", "Penetration Testing", "Home Lab"],
+    "links": [
+      ["https://www.youtube.com/c0nd4", "fab fa-youtube"],
+      ["https://twitter.com/0xConda", "fab fa-twitter"]
+    ]
   }
 ]

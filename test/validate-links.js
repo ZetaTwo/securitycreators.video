@@ -46,8 +46,8 @@ Promise
             errors.forEach(error => {
                 console.error('Link: '+error.reason.link+', Error: '+error.reason)
             });
-            console.error('Stopping');
-            return Promise.reject("Invalid links in creators data");
+            console.error('Number of invalid links: ' + errors.length);
+            return Promise.reject("Invalid links in creators data: " + errors.length);
         }
         return Promise.resolve()
     })

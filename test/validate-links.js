@@ -8,10 +8,16 @@ let creators = JSON.parse(creators_json);
 
 const links = creators.flatMap(creator => creator['links'].map(link => link[0]))
 
+const options = {
+    headers: {
+        'User-Agent': 'https://github.com/ZetaTwo/security-creators'
+    }
+}
+
 const requests = links.map(link => {
     return new Promise((resolve, reject) => {
         try {
-            var req = https.get(link, (res) => {
+            var req = https.get(link, options, (res) => {
                 if (res.statusCode < 200 || res.statusCode >= 400 && res.statusCode != 999) {
                     var err = new Error('statusCode=' + res.statusCode);
                     err.res = res;

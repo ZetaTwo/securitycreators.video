@@ -9,7 +9,7 @@
     "test": "node --unhandled-rejections=strict test/validate-links.js"
   },
   "dependencies": {
-    "core-js": "^3.8.1",
+    "core-js": "^3.10.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {
@@ -17,8 +17,8 @@
     "@vue/cli-plugin-eslint": "^4.5.9",
     "@vue/cli-service": "^4.5.12",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.8.0",
-    "eslint-plugin-vue": "^6.2.2",
+    "eslint": "^7.24.0",
+    "eslint-plugin-vue": "^7.9.0",
     "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {

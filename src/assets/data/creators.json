@@ -563,7 +563,7 @@
       ["https://www.youtube.com/SystemExploited", "fab fa-youtube"],
       ["https://twitter.com/ExploitedSystem", "fab fa-twitter"],
       ["https://instagram.com/SystemExploited", "fab fa-instagram"],
-      ["http://husse1n.com/", "fas fa-globe"],
+      ["https://husse1n.com/", "fas fa-globe"],
       ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"]
     ]
   }

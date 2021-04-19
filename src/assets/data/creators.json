@@ -3,15 +3,16 @@
    "name": "SimplyCyber",
    "location": "South Carolina, USA",
    "timezone": "EST (UTC-5)",
-   "avatar": "Gerald_Auger_SimplyCyber.png",
-   "schedule": "New Videos Every Monday at Noon EST Helping YOU Make and Take a Cybersecurity Care$
-   "tags": ["Career", "Cybersecurity Awareness", "RED/BLUE TEAM", "Breaking into industry", "Mento$
+   "avatar": "simplycyber.png",
+   "schedule": "Monday 12:00 EST. Make and Take a Cyber Career Further, Faster",
+   "tags": ["Career", "Cybersecurity Awareness", "Soc Analyst", "Mentoring"],
    "links": [
-     ["https://www.youtube.com/c/GeraldAuger", "fab fa-youtube"],
-     ["https://SimplyCyber.io/", "fas fa-globe"],
-     ["https://twitter.com/Gerald_Auger", "fab fa-twitter"],
-     ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"]
-     ["https://www.buymeacoffee.com/simplycyber", "fas fa-coffee"],    ]
+      ["https://www.youtube.com/c/GeraldAuger", "fab fa-youtube"],
+      ["https://SimplyCyber.io/", "fas fa-globe"],
+      ["https://twitter.com/Gerald_Auger", "fab fa-twitter"],
+      ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"],
+      ["https://www.buymeacoffee.com/simplycyber", "fas fa-coffee"]
+    ]
   },
   {
     "name": "STÖK",

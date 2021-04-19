@@ -553,5 +553,20 @@
       ["https://www.linkedin.com/in/aseemshrey", "fab fa-linkedin"],
       ["https://aseemshrey.in", "fas fa-globe"]
     ]
+  },
+  {
+    "name": "System Exploited",
+    "location": "Jordan",
+    "timezone": "GMT+2",
+    "avatar": "systemexploited.png",
+    "schedule": "every 3 days or every week",
+    "tags": ["security", "reversing", "OSINT", "ethical hacking"],
+    "links": [
+      ["https://www.youtube.com/SystemExploited", "fab fa-youtube"],
+      ["https://twitter.com/ExploitedSystem", "fab fa-twitter"],
+      ["https://instagram.com/SystemExploited", "fab fa-instagram"],
+      ["http://husse1n.com/", "fas fa-globe"],
+      ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"]
+    ]
   }
 ]

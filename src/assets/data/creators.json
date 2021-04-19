@@ -218,9 +218,7 @@
     "schedule": "infrequently, typically Sunday afternoons, sometimes random week nights",
     "tags": ["CTF/wargame walkthroughs", "Web apps", "network", "pen testing"],
     "links": [
-      ["https://youtube.com/derekrook/live", "fab fa-youtube"],
-      ["https://twitch.tv/r00k_infosec", "fab fa-twitch"],
-      ["https://r00k.io", "fas fa-globe"],
+      ["https://youtube.com/derekrook", "fab fa-youtube"],
       ["https://twitter.com/_r00k_", "fab fa-twitter"]
     ]
   },

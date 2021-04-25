@@ -363,5 +363,20 @@
             ["https://www.twitter.com/_zSecurity_", "fab fa-twitter"],
             ["https://www.instagram.com/zsecurity_org/", "fab fa-instagram"]
         ]
+    },
+    {
+        "name": "Sai Sathvik / Sathvik Techtuber",
+        "location": "Vijayawada, India",
+        "timezone": "IST",
+        "avatar": "sathvik_techtuber.png",
+        "schedule": "Mostly Thursdays 20:00",
+        "tags": ["programming", "Ethical Hacking", "CTF", "Live walkthroughs","penetration testing","bugbounty"],
+        "links": [
+            ["https://youtube.com/SathvikTechtuber", "fab fa-youtube"],
+            ["https://twitter.com/nullshock1", "fab fa-twitter"],
+            ["https://www.linkedin.com/in/sai-sathvik-ruppa-959543191/", "fab fa-linkedin"],
+            ["https://github.com/SaiSathvik1", "fab fa-github"],
+            ["https://www.instagram.com/sathvik_techtuber/", "fab fa-instagram"]
+        ]
     }
 ]

@@ -566,5 +566,19 @@
       ["https://husse1n.com/", "fas fa-globe"],
       ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"]
     ]
+  },
+  {
+    "name": "Tamil Hackz",
+    "location": "India, Tamil Nadu",
+    "timezone": "IST (GMT+5:30)",
+    "avatar": "Tamilhackz.jpg",
+    "schedule": "Aiming for once a week",
+    "tags": ["CTF Challenges", "Exploit development", "HackTheBox"],
+    "links": [
+      ["https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA", "fab fa-youtube"],
+      ["https://twitter.com/0xAnnLynn", "fab fa-twitter"]
+      ["https://github.com/TamilHackz", "fab fa-github"]
+      ["https://www.instagram.com/0xajay", "fab fa-instagram"]
+    ]
   }
 ]

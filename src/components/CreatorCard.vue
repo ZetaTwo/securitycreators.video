@@ -4,7 +4,7 @@
     <div>{{creator.location}}</div>
     <div class="creator-columns">
       <div class="creator-col-left">
-       <div class="creator-avatar"><img v-bind:src="'/img/creators/' + creator.avatar"></div>
+       <div class="creator-avatar"><img v-bind:src="require('../assets/img/creators/' + creator.avatar)"></div>
        <div class="creator-links">
          <h3>Links</h3>
          <a v-bind:href="link[0]" v-for="(link, index) in creator.links" v-bind:key="index"><i v-bind:class="link[1]"></i></a>

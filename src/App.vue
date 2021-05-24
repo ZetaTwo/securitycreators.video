@@ -13,7 +13,7 @@ import CreatorCards from './components/CreatorCards.vue'
 import Footer from './components/Footer.vue'
 
 export default {
-  name: 'Security Creators',
+  name: 'SecurityCreators',
   components: {
     //CreatorsFilter,
     CreatorCards,

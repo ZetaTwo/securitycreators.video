@@ -623,8 +623,8 @@
         ["https://twitter.com/davidpereiracib", "fab fa-twitter"],
         ["https://www.linkedin.com/in/davidfpereira", "fab fa-linkedin"],
         ["https://github.com/davidpereiracib", "fab fa-github"],
-        ["https://secpro.co/", "fab fa-globe"]
-        ["https://patreon.com/ciberseguridad", "fab fa-patreon"],
+        ["https://secpro.co/", "fab fa-globe"],
+        ["https://patreon.com/ciberseguridad", "fab fa-patreon"]
     ]
   }
 ]

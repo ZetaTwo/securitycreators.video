@@ -610,5 +610,21 @@
         ["https://github.com/SaiSathvik1", "fab fa-github"],
         ["https://www.instagram.com/sathvik_techtuber/", "fab fa-instagram"]
     ]
+  },
+  {
+    "name": "David Pereira / Cibersecurity for All",
+    "location": "Bogota, Colombia",
+    "timezone": "GMT -5",
+    "avatar": "david_pereira.jpg",
+    "schedule": "Once a Week",
+    "tags": ["Cybersecurity", "Ethical Hacking", "Penetration testing", "Malware Analysis", "Forensic Computing", "CTF", "Awareness"],
+    "links": [
+        ["https://www.youtube.com/c/DavidPereira", "fab fa-youtube"],
+        ["https://twitter.com/davidpereiracib", "fab fa-twitter"],
+        ["https://www.linkedin.com/in/davidfpereira", "fab fa-linkedin"],
+        ["https://github.com/davidpereiracib", "fab fa-github"],
+        ["https://secpro.co/", "fab fa-globe"]
+        ["https://patreon.com/ciberseguridad", "fab fa-patreon"],
+    ]
   }
 ]

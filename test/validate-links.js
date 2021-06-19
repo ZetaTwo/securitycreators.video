@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const https = require('https');
+const http = require('http');
 const fs = require('fs');
 
 let creators_json = fs.readFileSync('src/assets/data/creators.json');
@@ -17,19 +18,26 @@ const options = {
 const requests = links.map(link => {
     return new Promise((resolve, reject) => {
         try {
-            var req = https.get(link, options, (res) => {
-                if (res.statusCode < 200 || res.statusCode >= 400 && res.statusCode != 999) {
+            var req = (link.startsWith('https://') ? https : http).get(link, options, (res) => {
+                if((res.statusCode >= 200 && res.statusCode < 400) || res.statusCode == 999) {
+                    return resolve(res);
+                }
+
+                if (res.statusCode < 200 || res.statusCode >= 400) {
                     var err = new Error('statusCode=' + res.statusCode);
                     err.res = res;
                     err.link = link;
                     return reject(err);
                 }
-                if((res.statusCode >= 300 && res.statusCode < 400) || res.statusCode == 999) {
-                    return resolve(res) 
-                }
+
                 res.on('data', (data) => {
                     return resolve(data)
                 });
+
+                var err = new Error('Unknown statusCode=' + res.statusCode);
+                err.res = res;
+                err.link = link;
+                return reject(err);
             });
             req.on('error', err => {
                 err.link = link;
@@ -56,4 +64,4 @@ Promise
             return Promise.reject("Invalid links in creators data: " + errors.length);
         }
         return Promise.resolve()
-    })
+    });

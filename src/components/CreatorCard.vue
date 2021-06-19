@@ -11,6 +11,7 @@
        </div>
        <hr>
        <div class="creator-timezone" v-if="creator.timezone">TZ: {{creator.timezone}}</div>
+       <div class="creator-language" v-if="creator.language">Lang: {{creator.language.toUpperCase()}}</div>
       </div>
       <div class="creator-col-right">
         <div class="creator-topics" v-if="creator.tags.length">
@@ -73,7 +74,7 @@ export default {
     color: #333;
 }
 
-.creator-timezone {
+.creator-timezone, .creator-language {
   font-size: 0.8rem;
 }
 

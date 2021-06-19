@@ -2,15 +2,39 @@
   <div id="app">
     <header><h1>Security Creators</h1></header>
     <!--<CreatorsFilter />-->
-    <CreatorCards />
+    <CreatorCards v-bind:creators="creators_en" />
+    <h2>Non-English creators</h2>
+    <CreatorCards v-bind:creators="creators_int" />
     <Footer />
   </div>
 </template>
 
 <script>
 //import CreatorsFilter from './components/CreatorsFilter.vue'
+import creators from '@/assets/data/creators.json'
 import CreatorCards from './components/CreatorCards.vue'
 import Footer from './components/Footer.vue'
+
+// LFSR as a simple seedable PRNG
+let value = Math.floor(Date.now()/1000/60/60)&0xFFFF;
+let tap1bit = 1;
+let tap2bit = 9;
+function lfsr_random() {
+  // taken from https://github.com/kirbysayshi/tetris-prng
+  let tap1val = (value >> tap1bit) & 1;
+  let tap2val = (value >> tap2bit) & 1;
+  let leftmostBit = tap1val ^ tap2val;
+  value = ((leftmostBit << 15) | (value >>> 1)) >>> 0;
+  return value / (2 ** 16);
+}
+
+// Shuffle creators ordering every hour
+for(let i = creators.length - 1; i > 0; i--){
+  const j = Math.floor(lfsr_random() * i)
+  const temp = creators[i]
+  creators[i] = creators[j]
+  creators[j] = temp
+}
 
 export default {
   name: 'SecurityCreators',
@@ -18,6 +42,12 @@ export default {
     //CreatorsFilter,
     CreatorCards,
     Footer
+  },
+  data: function() { 
+    return {
+      creators_en: creators.filter(x => !x.language),
+      creators_int: creators.filter(x => x.language)
+    }
   }
 }
 </script>

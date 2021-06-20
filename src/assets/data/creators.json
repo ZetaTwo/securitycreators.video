@@ -626,5 +626,20 @@
         ["https://patreon.com/ciberseguridad", "fab fa-patreon"]
     ],
     "language": "es"
+  },
+  {
+    "name": "Alan Levy "El Mago" / Hacking Nights",
+    "location": "Buenos Aires, Argentina",
+    "timezone": "GMT -3",
+    "avatar": "elmago.jpg",
+    "schedule": "Once a Week",
+    "tags": ["Cybersecurity", "Ethical Hacking", "Penetration testing", "Bug Bounty", "OWASP", "CTF", "Tutorials"],
+    "links": [
+        ["https://www.youtube.com/c/AlanLevy-ElMago", "fab fa-youtube"],
+        ["https://twitter.com/soyelmago", "fab fa-twitter"],
+        ["https://www.linkedin.com/in/alanblevy/", "fab fa-linkedin"],
+        ["https://www.cintainfinita.com/", "fab fa-globe"]
+    ],
+    "language": "es"
   }
 ]

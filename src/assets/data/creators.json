@@ -622,7 +622,7 @@
         ["https://twitter.com/christophelimp", "fab fa-twitter"],
         ["https://www.linkedin.com/in/christophelimpalair/", "fab fa-linkedin"],
         ["https://www.instagram.com/christophelimpalair/", "fab fa-instagram"],
-        ["https://cybr.com/", "fab fa-globe"],
+        ["https://cybr.com/", "fas fa-globe"],
         ["https://www.udemy.com/user/christophe-limpalair/", "fas fa-globe"]
     ]
   },

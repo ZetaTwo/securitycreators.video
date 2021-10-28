@@ -642,5 +642,21 @@
         ["https://www.cintainfinita.com/", "fab fa-globe"]
     ],
     "language": "es"
+  },
+  {
+    "name": "Seytonic",
+    "location": "United Kingdom",
+    "timezone": "GMT",
+    "avatar": "seytonic.jpg",
+    "schedule": "Aiming for every other day",
+    "tags": ["Cybersecurity News"],
+    "links": [
+        ["https://www.youtube.com/seytonic", "fab fa-youtube"],
+        ["https://twitter.com/seytonic", "fab fa-twitter"],
+        ["https://www.linkedin.com/in/jhonti-todd-simpson-80b849174/", "fab fa-linkedin"],
+        ["https://www.instagram.com/jhonti/", "fab fa-instagram"],
+        ["https://www.seytonic.com/", "fab fa-globe"]
+    ],
+    "language": "en"
   }
 ]

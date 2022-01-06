@@ -657,5 +657,22 @@
         ["https://www.cintainfinita.com/", "fab fa-globe"]
     ],
     "language": "es"
+  },
+  {
+    "name": "The Cyber Mentor (Heath Adams)",
+    "location": "United States",
+    "timezone": "EST (UTC-5)",
+    "avatar": "tcm.jpg",
+    "schedule": "Sporadic",
+    "tags": ["Cybersecurity", "Ethical Hacking", "Penetration testing", "Tutorials"],
+    "links": [
+        ["https://www.youtube.com/c/thecybermentor", "fab fa-youtube"],
+        ["https://twitter.com/thecybermentor", "fab fa-twitter"],
+        ["https://www.linkedin.com/in/heathadams/", "fab fa-linkedin"],
+        ["https://www.instagram.com/thecybermentor/", "fab fa-instagram"],
+        ["https://twitch.tv/thecybermentor", "fab fa-twitch"],
+        ["https://discord.gg/tcm", "fab fa-discord"],
+        ["https://www.academy.tcm-sec.com/", "fab fa-globe"]
+    ]
   }
 ]

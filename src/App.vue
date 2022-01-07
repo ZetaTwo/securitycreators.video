@@ -5,7 +5,7 @@
     <CreatorCards v-bind:creators="creators_en" />
     <h2>Non-English creators</h2>
     <CreatorCards v-bind:creators="creators_int" />
-    <Footer />
+    <SiteFooter />
   </div>
 </template>
 
@@ -13,7 +13,7 @@
 //import CreatorsFilter from './components/CreatorsFilter.vue'
 import creators from '@/assets/data/creators.json'
 import CreatorCards from './components/CreatorCards.vue'
-import Footer from './components/Footer.vue'
+import SiteFooter from './components/SiteFooter.vue'
 
 // LFSR as a simple seedable PRNG
 let value = Math.floor(Date.now()/1000/60/60)&0xFFFF;
@@ -41,7 +41,7 @@ export default {
   components: {
     //CreatorsFilter,
     CreatorCards,
-    Footer
+    SiteFooter
   },
   data: function() { 
     return {

@@ -561,7 +561,8 @@
       ["https://www.youtube.com/SystemExploited", "fab fa-youtube"],
       ["https://twitter.com/ExploitedSystem", "fab fa-twitter"],
       ["https://instagram.com/SystemExploited", "fab fa-instagram"],
-      ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"]
+      ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"],
+      ["https://husseinmuhaisen.com", "fas fa-globe"]
     ]
   },
   {

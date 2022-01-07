@@ -623,7 +623,7 @@
         ["https://twitter.com/seytonic", "fab fa-twitter"],
         ["https://www.linkedin.com/in/jhonti-todd-simpson-80b849174/", "fab fa-linkedin"],
         ["https://www.instagram.com/jhonti/", "fab fa-instagram"],
-        ["https://www.seytonic.com/", "fab fa-globe"]
+        ["https://www.seytonic.com/", "fas fa-globe"]
     ]
   },
   {
@@ -638,7 +638,7 @@
         ["https://twitter.com/davidpereiracib", "fab fa-twitter"],
         ["https://www.linkedin.com/in/davidfpereira", "fab fa-linkedin"],
         ["https://github.com/davidpereiracib", "fab fa-github"],
-        ["https://secpro.co/", "fab fa-globe"],
+        ["https://secpro.co/", "fas fa-globe"],
         ["https://patreon.com/ciberseguridad", "fab fa-patreon"]
     ],
     "language": "es"
@@ -654,7 +654,7 @@
         ["https://www.youtube.com/c/AlanLevy-ElMago", "fab fa-youtube"],
         ["https://twitter.com/soyelmago", "fab fa-twitter"],
         ["https://www.linkedin.com/in/alanblevy/", "fab fa-linkedin"],
-        ["https://www.cintainfinita.com/", "fab fa-globe"]
+        ["https://www.cintainfinita.com/", "fas fa-globe"]
     ],
     "language": "es"
   },
@@ -672,7 +672,7 @@
         ["https://www.instagram.com/thecybermentor/", "fab fa-instagram"],
         ["https://twitch.tv/thecybermentor", "fab fa-twitch"],
         ["https://discord.gg/tcm", "fab fa-discord"],
-        ["https://www.academy.tcm-sec.com/", "fab fa-globe"]
+        ["https://academy.tcm-sec.com/", "fas fa-globe"]
     ]
   }
 ]

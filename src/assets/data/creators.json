@@ -1,4 +1,18 @@
 [
+{
+   "name": "Dimitris Kalopisis",
+   "location": "Greece",
+   "timezone": "GMT +2",
+   "avatar": "dimitriskalopisis.jpeg",
+   "schedule": "Biweekly Uploads",
+   "tags": ["CTFs", "HackTheBox", "Ethical Hacking", "Discord Hacking"],
+   "links": [
+      ["https://www.youtube.com/c/Ectos", "fab fa-youtube"],
+      ["https://twitter.com/DKalopisis", "fab fa-twitter"],
+      ["https://github.com/3ct0s", "fab fa-github"],
+      ["https://www.linkedin.com/in/dimitris-kalopisis-698a251ab/", "fab fa-linkedin"]
+   ]
+ },
  {
    "name": "SimplyCyber",
    "location": "South Carolina, USA",

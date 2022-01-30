@@ -687,5 +687,19 @@
         ["https://discord.gg/tcm", "fab fa-discord"],
         ["https://academy.tcm-sec.com/", "fas fa-globe"]
     ]
+  },
+  {
+    "name": "Alex Chaveriat (Silk)",
+    "location": "United States",
+    "timezone": "EST/EDT",
+    "avatar": "alexchaveriat.png",
+    "schedule": "Sporadic Videos | Live Hacker Hangouts Saturday 11AM Eastern",
+    "tags": ["Hacking", "Penetration testing", "DEF CON", "Hacker Hangouts", "Scientific Hooliganism"],
+    "links": [
+        ["https://www.youtube.com/c/alexchaveriat", "fab fa-youtube"],
+        ["https://twitter.com/alexchaveriat", "fab fa-twitter"],
+        ["https://newsletter.alexchaveriat.com/", "fab fa-phone"],
+        ["https://alexchaveriat.com/", "fas fa-globe"]
+    ]
   }
 ]

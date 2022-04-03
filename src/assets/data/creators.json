@@ -701,5 +701,18 @@
         ["https://newsletter.alexchaveriat.com/", "fab fa-phone"],
         ["https://alexchaveriat.com/", "fas fa-globe"]
     ]
+  },
+  {
+    "name": "0xdf",
+    "location": "United States",
+    "timezone": "EST/EDT",
+    "avatar": "0xdf.png",
+    "schedule": "Typically around for one video per week, but sometimes more, sometimes less. HTB blog posts on Saturdays, and sometimes more.",
+    "tags": ["HackTheBox", "CTF", "Coding", "Ethical Hacking"],
+    "links": [
+        ["https://www.youtube.com/c/0xdf0xdf", "fab fa-youtube"],
+        ["https://0xdf.gitlab.io", "fas fa-globe"],
+        ["https://twitter.com/0xdf_", "fab fa-twitter"]
+    ]
   }
 ]

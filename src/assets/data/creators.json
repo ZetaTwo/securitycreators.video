@@ -83,6 +83,7 @@
       ["https://twitter.com/gregxsunday", "fab fa-twitter"],
       ["https://www.tiktok.com/@bbre.dev", "fab fa-tiktok"],
       ["https://www.instagram.com/gregxsunday/", "fab fa-instagram"],
+      ["https://mailing.bugbountyexplained.com/", "fas fa-mail-bulk"],
       ["https://www.facebook.com/BugBountyReportsExplained/", "fab fa-facebook"]
     ]
   },

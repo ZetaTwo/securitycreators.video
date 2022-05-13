@@ -718,5 +718,22 @@
         ["https://0xdf.gitlab.io", "fas fa-globe"],
         ["https://twitter.com/0xdf_", "fab fa-twitter"]
     ]
+  },
+  {
+    "name": "TheGoodHacker",
+    "location": "Spain",
+    "timezone": "GMT+2",
+    "avatar": "thegoodhacker.png",
+    "schedule": "Weekly uploads. Sporadic streams.",
+    "tags": ["Pentesting", "Ethical Hacking", "HackTheBox", "TryHackMe"],
+    "links": [
+        ["https://www.youtube.com/thegoodhacker", "fab fa-youtube"],
+        ["https://www.twitch.tv/thegoodhackertv","fab fa-twitch"],
+        ["https://twitter.com/thegoodhackertv", "fab fa-twitter"],
+        ["https://thegoodhackertv.com/","fas fa-globe"],
+        ["https://www.linkedin.com/in/andres-moreno-pisati/","fab fa-linkedin"],
+        ["https://www.instagram.com/thegoodhackertv/","fab fa-instagram"],
+        ["https://www.tiktok.com/@thegoodhackertv","fab fa-tiktok"]
+    ]
   }
 ]

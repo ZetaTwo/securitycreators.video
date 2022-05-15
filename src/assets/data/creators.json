@@ -734,6 +734,7 @@
         ["https://www.linkedin.com/in/andres-moreno-pisati/","fab fa-linkedin"],
         ["https://www.instagram.com/thegoodhackertv/","fab fa-instagram"],
         ["https://www.tiktok.com/@thegoodhackertv","fab fa-tiktok"]
-    ]
+    ],
+    "language": "es"
   }
 ]

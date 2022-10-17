@@ -736,5 +736,20 @@
         ["https://www.tiktok.com/@thegoodhackertv","fab fa-tiktok"]
     ],
     "language": "es"
+  },
+  {
+    "name": "InfoSecTube",
+    "location": "Localhost",
+    "timezone": "GMT+3.30",
+    "avatar": "",
+    "schedule": "Schedule Sporadic",
+    "tags": ["Pentesting","Programing", "Ethical Hacking", "CTF", "Academic Conference","Blockchain & Smart Contracts Security", "Redteam"],
+    "links": [
+        ["https://www.youtube.com/c/InfoSecTube", "fab fa-youtube"],
+        ["https://www.linkedin.com/in/saeidghsh/","fab fa-linkedin"],
+        ["https://www.instagram.com/info_sec_tube","fab fa-instagram"],
+        ["https://t.me/InfoSecTube","fab fa-telegram"]
+    ],
+    "language": "Persian/English"
   }
 ]

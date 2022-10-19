@@ -747,6 +747,7 @@
     "links": [
         ["https://www.youtube.com/c/InfoSecTube", "fab fa-youtube"],
         ["https://www.instagram.com/info_sec_tube","fab fa-instagram"],
+        ["https://www.linkedin.com/in/saeidshirazi/","fab fa-linkedin"],
         ["https://t.me/InfoSecTube","fab fa-telegram"]
     ],
     "language": "Persian/English"

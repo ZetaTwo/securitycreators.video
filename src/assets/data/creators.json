@@ -739,14 +739,13 @@
   },
   {
     "name": "InfoSecTube",
-    "location": "Localhost",
+    "location": "",
     "timezone": "GMT+3.30",
-    "avatar": "",
+    "avatar": "infosectube.jpg",
     "schedule": "Schedule Sporadic",
-    "tags": ["Pentesting","Programing", "Ethical Hacking", "CTF", "Academic Conference","Blockchain & Smart Contracts Security", "Redteam"],
+    "tags": ["Pentesting","Programing", "Ethical Hacking", "CTF", "Academic Conference","Blockchain & Smart Contracts", "Redteam"],
     "links": [
         ["https://www.youtube.com/c/InfoSecTube", "fab fa-youtube"],
-        ["https://www.linkedin.com/in/saeidghsh/","fab fa-linkedin"],
         ["https://www.instagram.com/info_sec_tube","fab fa-instagram"],
         ["https://t.me/InfoSecTube","fab fa-telegram"]
     ],

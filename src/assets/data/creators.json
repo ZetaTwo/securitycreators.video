@@ -752,21 +752,19 @@
     ],
     "language": "Persian/English"
   },
-
   {
-    "name": "Voiceofteluguethicalhacking",
+    "name": "Voice Of Telugu",
     "location": "Hyderabad/India",
     "timezone": "IST",
-    "avatar": "voiceofteluguethicalhacking.jpg",
+    "avatar": "voiceofteluguethicalhacking.png",
     "schedule": "Weekly uploads",
     "tags": ["Pentesting","Programing", "Ethical Hacking", "CTF", "Redteam", "Hacker Interviews"],
     "links": [
         ["https://www.youtube.com/@VoiceOfTeluguEthicalHacking01", "fab fa-youtube"],
         ["https://www.instagram.com/voiceofteluguhacking/","fab fa-instagram"],
         ["https://www.linkedin.com/in/mushnaboina-bhanuprakash-goud-316b6218b/","fab fa-linkedin"],
-        ["https://t.me/voiceofteluguethicalhacking","fab fa-telegram"]
+        ["https://t.me/voiceofteluguethicalhacking","fab fa-telegram"],
         ["https://twitter.com/Bhanugoudm041","fab fa-twitch"]
-
     ],
     "language": "Telugu/English"
   }

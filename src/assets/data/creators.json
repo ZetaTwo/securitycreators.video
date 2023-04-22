@@ -577,10 +577,7 @@
     "tags": ["security", "reversing", "OSINT", "ethical hacking"],
     "links": [
       ["https://www.youtube.com/SystemExploited", "fab fa-youtube"],
-      ["https://twitter.com/ExploitedSystem", "fab fa-twitter"],
-      ["https://instagram.com/SystemExploited", "fab fa-instagram"],
       ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"],
-      ["https://husseinmuhaisen.com", "fas fa-globe"]
     ]
   },
   {
@@ -591,10 +588,7 @@
     "schedule": "Aiming for once a week",
     "tags": ["CTF Challenges", "Exploit development", "HackTheBox"],
     "links": [
-      ["https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA", "fab fa-youtube"],
-      ["https://twitter.com/0xAnnLynn", "fab fa-twitter"],
-      ["https://github.com/TamilHackz", "fab fa-github"],
-      ["https://www.instagram.com/0xajay", "fab fa-instagram"]
+      ["https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA", "fab fa-youtube"]
     ]
   },
   {

@@ -131,6 +131,20 @@
     ]
   },
   {
+    "name": "Gary Ruddell",
+    "location": "Edinburgh, UK",
+    "timezone": "GMT)",
+    "avatar": "garyruddell.jpg",
+    "schedule": "Usually weekly or fortnightly.",
+    "tags": ["Cyber Threat Intelligence", "Offensive Security", "Intelligence", "Career"],
+    "links": [
+      ["https://youtube.com/garyruddellofficial", "fab fa-youtube"],
+      ["https://www.garyruddell.com", "fas fa-globe"],
+      ["https://twitter.com/gary__ruddell", "fab fa-twitter"],
+      ["https://www.linkedin.com/in/garyruddell", "fab fa-linkedin"]
+    ]
+  },
+  {
     "name": "Rob Fuller",
     "location": "",
     "timezone": "EST",

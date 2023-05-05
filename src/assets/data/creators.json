@@ -14,18 +14,17 @@
    ]
  },
  {
-   "name": "SimplyCyber",
+   "name": "Simply Cyber",
    "location": "South Carolina, USA",
    "timezone": "EST (UTC-5)",
    "avatar": "simplycyber.png",
-   "schedule": "Livestreams Thursday 4:30PM, Produced Monday 12:00PM, Daily Threat Briefings (Live)",
-   "tags": ["Career", "Cybersecurity Awareness", "Soc Analyst", "Mentoring"],
+   "schedule": "Live Cyber Threat Briefing Every Weekday 8AM EST. Thursday 4:30PM EST Cyber Industry Interviews. Produced Videos Weekly",
+   "tags": ["Career", "GRC", "Soc Analyst", "Mentoring"],
    "links": [
       ["https://www.youtube.com/c/GeraldAuger", "fab fa-youtube"],
       ["https://SimplyCyber.io/", "fas fa-globe"],
       ["https://twitter.com/Gerald_Auger", "fab fa-twitter"],
-      ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"],
-      ["https://www.buymeacoffee.com/simplycyber", "fas fa-coffee"]
+      ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"]
     ]
   },
   {

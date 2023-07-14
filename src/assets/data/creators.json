@@ -790,5 +790,20 @@
         ["https://discord.gg/2ykmr2ynpf", "fab fa-discord"]
     ],
     "language": "English"
+  },
+ {
+    "name": "0xbro",
+    "location": "Italy",
+    "timezone": "GMT+2",
+    "avatar": "0xbro.png",
+    "schedule": "Sporadic",
+    "tags": ["Web App Security","Mobile App Security", "CTFs", "Penetration Testing"],
+    "links": [
+        ["https://www.youtube.com/@0xbro", "fab fa-youtube"],
+        ["https://0xbro.red/","fas fa-globe"],
+        ["https://github.com/0xb120", "fab fa-github"],
+        ["https://twitter.com/sec_0xbro","fab fa-twitter"],
+        ["https://www.linkedin.com/in/mattia-brollo-b4129614b/","fab fa-linkedin"]
+    ]
   }
 ]

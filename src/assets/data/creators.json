@@ -723,7 +723,10 @@
     "links": [
         ["https://www.youtube.com/c/0xdf0xdf", "fab fa-youtube"],
         ["https://0xdf.gitlab.io", "fas fa-globe"],
-        ["https://twitter.com/0xdf_", "fab fa-twitter"]
+        ["https://twitter.com/0xdf_", "fab fa-twitter"],
+        ["https://www.buymeacoffee.com/0xdf", "fas fa-coffee"],
+        ["https://www.linkedin.com/in/0xdf/", "fab fa-linkedin"],
+        ["https://infosec.exchange/@0xdf", "fab fa-mastodon"]
     ]
   },
   {

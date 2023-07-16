@@ -14,18 +14,17 @@
    ]
  },
  {
-   "name": "SimplyCyber",
+   "name": "Simply Cyber",
    "location": "South Carolina, USA",
    "timezone": "EST (UTC-5)",
    "avatar": "simplycyber.png",
-   "schedule": "Livestreams Thursday 4:30PM, Produced Monday 12:00PM, Daily Threat Briefings (Live)",
-   "tags": ["Career", "Cybersecurity Awareness", "Soc Analyst", "Mentoring"],
+   "schedule": "Live Cyber Threat Briefing Every Weekday 8AM EST. Thursday 4:30PM EST Cyber Industry Interviews. Produced Videos Weekly",
+   "tags": ["Career", "GRC", "Soc Analyst", "Mentoring"],
    "links": [
       ["https://www.youtube.com/c/GeraldAuger", "fab fa-youtube"],
       ["https://SimplyCyber.io/", "fas fa-globe"],
       ["https://twitter.com/Gerald_Auger", "fab fa-twitter"],
-      ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"],
-      ["https://www.buymeacoffee.com/simplycyber", "fas fa-coffee"]
+      ["https://www.instagram.com/geraldaugersimplycyber", "fab fa-instagram"]
     ]
   },
   {
@@ -76,11 +75,15 @@
     "location": "Kraków, Poland",
     "timezone": "CET (GMT+1)",
     "avatar": "gregxsunday.png",
-    "schedule": "Video every 2 weeks",
-    "tags": ["bug bounty"],
+    "schedule": "Video every 2 weeks and newsletter every 2 weeks alternately.",
+    "tags": ["bug bounty", "offensive security"],
     "links": [
       ["https://www.youtube.com/c/BugBountyReportsExplained", "fab fa-youtube"],
-      ["https://twitter.com/gregxsunday", "fab fa-twitter"]
+      ["https://twitter.com/gregxsunday", "fab fa-twitter"],
+      ["https://www.tiktok.com/@bbre.dev", "fab fa-tiktok"],
+      ["https://www.instagram.com/gregxsunday/", "fab fa-instagram"],
+      ["https://mailing.bugbountyexplained.com/", "fas fa-mail-bulk"],
+      ["https://www.facebook.com/BugBountyReportsExplained/", "fab fa-facebook"]
     ]
   },
   {
@@ -124,6 +127,20 @@
       ["https://youtube.com/ZetaTwo", "fab fa-youtube"],
       ["https://zeta-two.com", "fas fa-globe"],
       ["https://twitter.com/ZetaTwo", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "Gary Ruddell",
+    "location": "Edinburgh, UK",
+    "timezone": "GMT",
+    "avatar": "garyruddell.jpg",
+    "schedule": "Usually weekly or fortnightly.",
+    "tags": ["Cyber Threat Intelligence", "Offensive Security", "Intelligence", "Career"],
+    "links": [
+      ["https://youtube.com/garyruddellofficial", "fab fa-youtube"],
+      ["https://www.garyruddell.com", "fas fa-globe"],
+      ["https://twitter.com/gary__ruddell", "fab fa-twitter"],
+      ["https://www.linkedin.com/in/garyruddell", "fab fa-linkedin"]
     ]
   },
   {
@@ -573,10 +590,7 @@
     "tags": ["security", "reversing", "OSINT", "ethical hacking"],
     "links": [
       ["https://www.youtube.com/SystemExploited", "fab fa-youtube"],
-      ["https://twitter.com/ExploitedSystem", "fab fa-twitter"],
-      ["https://instagram.com/SystemExploited", "fab fa-instagram"],
-      ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"],
-      ["https://husseinmuhaisen.com", "fas fa-globe"]
+      ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"]
     ]
   },
   {
@@ -587,10 +601,7 @@
     "schedule": "Aiming for once a week",
     "tags": ["CTF Challenges", "Exploit development", "HackTheBox"],
     "links": [
-      ["https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA", "fab fa-youtube"],
-      ["https://twitter.com/0xAnnLynn", "fab fa-twitter"],
-      ["https://github.com/TamilHackz", "fab fa-github"],
-      ["https://www.instagram.com/0xajay", "fab fa-instagram"]
+      ["https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA", "fab fa-youtube"]
     ]
   },
   {
@@ -713,6 +724,86 @@
         ["https://www.youtube.com/c/0xdf0xdf", "fab fa-youtube"],
         ["https://0xdf.gitlab.io", "fas fa-globe"],
         ["https://twitter.com/0xdf_", "fab fa-twitter"]
+    ]
+  },
+  {
+    "name": "TheGoodHacker",
+    "location": "Spain",
+    "timezone": "GMT+2",
+    "avatar": "thegoodhacker.png",
+    "schedule": "Weekly uploads. Sporadic streams.",
+    "tags": ["Pentesting", "Ethical Hacking", "HackTheBox", "TryHackMe"],
+    "links": [
+        ["https://www.youtube.com/thegoodhacker", "fab fa-youtube"],
+        ["https://www.twitch.tv/thegoodhackertv","fab fa-twitch"],
+        ["https://twitter.com/thegoodhackertv", "fab fa-twitter"],
+        ["https://thegoodhackertv.com/","fas fa-globe"],
+        ["https://www.linkedin.com/in/andres-moreno-pisati/","fab fa-linkedin"],
+        ["https://www.instagram.com/thegoodhackertv/","fab fa-instagram"],
+        ["https://www.tiktok.com/@thegoodhackertv","fab fa-tiktok"]
+    ],
+    "language": "es"
+  },
+  {
+    "name": "InfoSecTube",
+    "location": "",
+    "timezone": "GMT+3.30",
+    "avatar": "infosectube.jpg",
+    "schedule": "Schedule Sporadic",
+    "tags": ["Pentesting","Programing", "Ethical Hacking", "CTF", "Academic Conference","Blockchain & Smart Contracts", "Redteam"],
+    "links": [
+        ["https://www.youtube.com/c/InfoSecTube", "fab fa-youtube"],
+        ["https://www.instagram.com/info_sec_tube","fab fa-instagram"],
+        ["https://www.linkedin.com/in/saeidshirazi/","fab fa-linkedin"],
+        ["https://t.me/InfoSecTube","fab fa-telegram"]
+    ],
+    "language": "Persian/English"
+  },
+  {
+    "name": "Voice Of Telugu",
+    "location": "Hyderabad/India",
+    "timezone": "IST",
+    "avatar": "voiceofteluguethicalhacking.png",
+    "schedule": "Weekly uploads",
+    "tags": ["Pentesting","Programing", "Ethical Hacking", "CTF", "Redteam", "Hacker Interviews"],
+    "links": [
+        ["https://www.youtube.com/@VoiceOfTeluguEthicalHacking01", "fab fa-youtube"],
+        ["https://www.instagram.com/voiceofteluguhacking/","fab fa-instagram"],
+        ["https://www.linkedin.com/in/mushnaboina-bhanuprakash-goud-316b6218b/","fab fa-linkedin"],
+        ["https://t.me/voiceofteluguethicalhacking","fab fa-telegram"],
+        ["https://twitter.com/Bhanugoudm041","fab fa-twitch"]
+    ],
+    "language": "Telugu/English"
+  },
+  {
+    "name": "thehackerish",
+    "location": "Luxembourg",
+    "timezone": "CET",
+    "avatar": "thehackerish.png",
+    "schedule": "Mon-Fri",
+    "tags": ["Pentesting","Programming", "Ethical Hacking", "CTF", "Redteam", "Hacker Interviews"],
+    "links": [
+        ["https://www.youtube.com/@thehackerish", "fab fa-youtube"],
+        ["https://academy.thehackerish.com/","fas fa-globe"],
+        ["https://www.linkedin.com/in/abdessamad-dhassi-50443217/","fab fa-linkedin"],
+        ["https://twitter.com/thehackerish","fab fa-twitter"],
+        ["https://discord.gg/2ykmr2ynpf", "fab fa-discord"]
+    ],
+    "language": "English"
+  },
+ {
+    "name": "0xbro",
+    "location": "Italy",
+    "timezone": "GMT+2",
+    "avatar": "0xbro.png",
+    "schedule": "Sporadic",
+    "tags": ["Web App Security","Mobile App Security", "CTFs", "Penetration Testing"],
+    "links": [
+        ["https://www.youtube.com/@0xbro", "fab fa-youtube"],
+        ["https://0xbro.red/","fas fa-globe"],
+        ["https://github.com/0xb120", "fab fa-github"],
+        ["https://twitter.com/sec_0xbro","fab fa-twitter"],
+        ["https://www.linkedin.com/in/mattia-brollo-b4129614b/","fab fa-linkedin"]
     ]
   }
 ]

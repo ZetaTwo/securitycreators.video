@@ -9,7 +9,19 @@ let creators = JSON.parse(creators_json);
 
 const links = creators.flatMap(creator => creator['links'].map(link => link[0]))
 
-const options = {
+const user_agents = {
+    //'default': 'https://github.com/ZetaTwo/security-creators',
+    'www.udemy.com': 'curl/7.54.1',
+    'ko-fi.com': 'node-fetch',
+    'www.buymeacoffee.com': 'curl/7.54.1',
+
+    'simplycyber.io': 'curl/7.54.1',
+    'stokfredrik.com': 'curl/7.54.1',
+    'www.cyberwarriorstudios.com': 'curl/7.54.1',
+
+}
+
+const default_headers = {
     headers: {
         'User-Agent': 'https://github.com/ZetaTwo/security-creators'
     }
@@ -18,50 +30,53 @@ const options = {
 const requests = links.map(link => {
     return new Promise((resolve, reject) => {
         try {
-            var req = (link.startsWith('https://') ? https : http).get(link, options, (res) => {
-                if((res.statusCode >= 200 && res.statusCode < 400) || res.statusCode == 999) {
-                    return resolve(res);
+            const url = new URL(link);
+            const options = {
+                headers: { ...default_headers }
+            };
+            if (url.hostname in user_agents) {
+                options['headers']['User-Agent'] = user_agents[url.hostname];
+            }
+
+            let req = (link.startsWith('https://') ? https : http).get(link, options, (res) => {
+                let error = null;
+                if ((res.statusCode < 200 || res.statusCode >= 400)
+                    && res.statusCode != 999) { // Fuck LinkedIn
+                    error = new Error('statusCode=' + res.statusCode);
+                    error.res = res;
+                    error.link = link;
                 }
 
-                if (res.statusCode < 200 || res.statusCode >= 400) {
-                    var err = new Error('statusCode=' + res.statusCode);
-                    err.res = res;
-                    err.link = link;
-                    return reject(err);
-                }
-
-                res.on('data', (data) => {
-                    return resolve(data)
+                res.on('data', () => { });
+                res.on('end', () => {
+                    if (error) {
+                        reject(error);
+                    } else {
+                        resolve();
+                    }
                 });
-
-                var err = new Error('Unknown statusCode=' + res.statusCode);
-                err.res = res;
-                err.link = link;
-                return reject(err);
             });
             req.on('error', err => {
                 err.link = link;
                 return reject(err);
             })
             req.end();
-        } catch(error) {
+        } catch (error) {
             error.link = link;
             reject(error);
         }
     })
 });
 
-Promise
-    .allSettled(requests)
-    .then(results => {
-        const errors = results.filter((result) => result.status === 'rejected');
-        if(errors.length > 0) {
-            // new Error('Link: '+result.reason.link+', Error: '+result.reason)
-            errors.forEach(error => {
-                console.error('Link: '+error.reason.link+', Error: '+error.reason)
-            });
-            console.error('Number of invalid links: ' + errors.length);
-            return Promise.reject("Invalid links in creators data: " + errors.length);
-        }
-        return Promise.resolve()
-    });
+const main = async () => {
+    const results = await Promise.allSettled(requests);
+    const errors = results.filter((result) => result.status === 'rejected');
+    if (errors.length > 0) {
+        errors.forEach(error => {
+            console.error('Link: ' + error.reason.link + ', Error: ' + error.reason)
+        });
+        throw new Error("Invalid links in creators data: " + errors.length);
+    }
+};
+
+main();

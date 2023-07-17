@@ -18,6 +18,7 @@ const user_agents = {
     'simplycyber.io': 'curl/7.54.1',
     'stokfredrik.com': 'curl/7.54.1',
     'www.cyberwarriorstudios.com': 'curl/7.54.1',
+    'thegoodhackertv.com': 'curl/7.54.1',
 
 }
 

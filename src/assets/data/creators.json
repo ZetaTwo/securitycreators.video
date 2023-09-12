@@ -808,5 +808,19 @@
         ["https://twitter.com/sec_0xbro","fab fa-twitter"],
         ["https://www.linkedin.com/in/mattia-brollo-b4129614b/","fab fa-linkedin"]
     ]
+  },
+ {
+    "name": "Matt Brown",
+    "location": "USA",
+    "timezone": "EST/EDT",
+    "avatar": "nmatt.jpg",
+    "schedule": "Sporadic",
+    "tags": ["IoT","Hardware Hacking", "Wi-Fi", "BLE"],
+    "links": [
+        ["https://www.youtube.com/@mattbrwn", "fab fa-youtube"],
+        ["https://github.com/nmatt0", "fab fa-github"],
+        ["https://twitter.com/nmatt0","fab fa-twitter"],
+        ["https://www.linkedin.com/in/mattbrwn/","fab fa-linkedin"]
+    ]
   }
 ]

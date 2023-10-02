@@ -28,6 +28,19 @@
     ]
   },
   {
+   "name": "Cloud Security Podcast",
+   "location": "London, UK",
+   "timezone": "GMT",
+   "schedule": "Weekly interviews with Cloud Security Practioners and CISOs and Cloud Native Security Training Videos ",
+   "tags": ["Cloud Security", "CISO", "Cloud Native Security", "Kubernetes Security"],
+   "links": [
+      ["https://www.youtube.com/c/CloudSecurityPodcast", "fab fa-youtube"],
+      ["https://cloudsecuritypodcast.tv/", "fas fa-globe"],
+      ["https://twitter.com/cloudsecuritypodcast", "fab fa-twitter"],
+      ["https://www.instagram.com/cloudsecuritypodcast", "fab fa-instagram"]
+    ]
+  },
+  {
     "name": "STÖK",
     "location": "Sweden",
     "timezone": "CET (GMT+1)",

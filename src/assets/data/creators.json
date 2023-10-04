@@ -31,12 +31,12 @@
    "name": "Cloud Security Podcast",
    "location": "London, UK",
    "timezone": "GMT",
-   "avatar": "Clean CSP Logo - CLEAN - RED.png",
+   "avatar": "csp.png",
    "schedule": "Weekly interviews with Cloud Security Practioners and CISOs and Cloud Native Security Training Videos ",
    "tags": ["Cloud Security", "CISO", "Cloud Native Security", "Kubernetes Security"],
    "links": [
-      ["https://www.youtube.com/c/CloudSecurityPodcast?sub_confirmation=1", "fab fa-youtube"],
-      ["https://cloudsecuritypodcast.tv/", "fas fa-globe"],
+      ["https://www.youtube.com/c/CloudSecurityPodcast", "fab fa-youtube"],
+      ["https://cloudsecuritypodcast.tv", "fas fa-globe"],
       ["https://twitter.com/cloudsecpod", "fab fa-twitter"],
       ["https://www.instagram.com/cloudsecuritypodcast", "fab fa-instagram"]
     ]

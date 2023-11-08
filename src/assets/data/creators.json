@@ -42,6 +42,17 @@
     ]
   },
   {
+    "name": "CPA to Cybersecurity",
+    "location": "Canada",
+    "timezone": "EST (UTC-5)",
+    "avatar": "cpatocybersecurity.jpg",
+    "schedule": "Weekly Videos",
+    "tags": ["GRC", "IT Audit", "Career", "Business"],
+    "links": [
+      ["https://www.youtube.com/@cpatocybersecurity", "fab fa-youtube"]
+    ]
+  },
+  {
     "name": "STÖK",
     "location": "Sweden",
     "timezone": "CET (GMT+1)",

@@ -1,10 +1,15 @@
 <template>
   <div id="app">
-    <header><h1>Security Creators</h1></header>
+    <header>
+      <h1>Security Creators</h1>
+      <div id="menu">Jump to: <a href="#nonenglish">Non-English</a> | <a href="#inactive">Inactive</a></div>
+    </header>
     <!--<CreatorsFilter />-->
     <CreatorCards v-bind:creators="creators_en" />
-    <h2>Non-English creators</h2>
+    <h2 id="nonenglish">Non-English creators</h2>
     <CreatorCards v-bind:creators="creators_int" />
+    <h2 id="inactive">Inactive creators</h2>
+    <CreatorCards v-bind:creators="creators_inactive" />
     <SiteFooter />
   </div>
 </template>
@@ -45,8 +50,9 @@ export default {
   },
   data: function() { 
     return {
-      creators_en: creators.filter(x => !x.language),
-      creators_int: creators.filter(x => x.language)
+      creators_en: creators.filter(x => !x.language && !x.inactive),
+      creators_int: creators.filter(x => x.language && !x.inactive),
+      creators_inactive: creators.filter(x => x.inactive),
     }
   }
 }
@@ -79,5 +85,9 @@ body {
   font-size: 4rem;
   padding: 5px;
   border-bottom: 1px solid #000;
+}
+#app #menu a {
+  color: var(--nickel);
+  text-decoration: underline 1px dotted;
 }
 </style>

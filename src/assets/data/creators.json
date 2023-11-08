@@ -6,6 +6,7 @@
    "avatar": "dimitriskalopisis.jpg",
    "schedule": "Biweekly Uploads",
    "tags": ["CTFs", "HackTheBox", "Ethical Hacking", "Discord Hacking"],
+   "inactive": true,
    "links": [
       ["https://www.youtube.com/c/Ectos", "fab fa-youtube"],
       ["https://twitter.com/DKalopisis", "fab fa-twitter"],
@@ -88,6 +89,7 @@
     "avatar": "vickieli.png",
     "schedule": "Video every week",
     "tags": ["security", "hacking", "secure development", "ethical hacking"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/c/vickielidev", "fab fa-youtube"],
       ["https://twitter.com/vickieli7", "fab fa-twitter"],
@@ -117,6 +119,7 @@
     "avatar": "codingo.gif",
     "schedule": "Aiming for once a fortnight",
     "tags": ["programming", "security/hacking", "bug bounties", "electronics", "intermediate-advance level", "bug bounties", "mindset", "motivation", "tools"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/codingo", "fab fa-youtube"],
       ["https://twitter.com/codingo_", "fab fa-twitter"],
@@ -147,6 +150,7 @@
     "avatar": "zetatwo.jpg",
     "schedule": "Ad-hoc, plan to start doing it regularly weekly/bi-weekly",
     "tags": ["CTF challenges", "pwnables", "reverse engineering"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/ZetaTwo", "fab fa-youtube"],
       ["https://zeta-two.com", "fas fa-globe"],
@@ -174,6 +178,7 @@
     "avatar": "robfuller.jpg",
     "schedule": "Wednesdays, 21:00 EST",
     "tags": [],
+    "inactive": true,
     "links": [
       ["https://twitch.tv/mub1x", "fab fa-twitch"],
       ["https://malicious.link", "fas fa-globe"],
@@ -188,6 +193,7 @@
     "avatar": "justinsteven.jpg",
     "schedule": "",
     "tags": ["Binary CTF exploitation"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/justinsteven", "fab fa-youtube"],
       ["https://twitch.tv/justinsteven", "fab fa-twitch"],
@@ -202,6 +208,7 @@
     "avatar": "murmus.jpg",
     "schedule": "Tuesdays, 15:00 EST, 2-3h",
     "tags": ["Binary Exploitation", "general VR stuff"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/MurmusCTF", "fab fa-youtube"],
       ["https://twitter.com/MurmusCTF", "fab fa-twitter"],
@@ -229,6 +236,7 @@
     "avatar": "joshwatson.jpg",
     "schedule": "Tuesdays/Thursdays, 15:00 PST, ~3h, and most Sundays 19:00 PST, ~3h",
     "tags": ["binary ninja", "reverse engineering", "pwnables", "crackmes", "tool building"],
+    "inactive": true,
     "links": [
       ["https://twitch.tv/josh_watson", "fab fa-twitch"],
       ["https://twitter.com/josh_watson", "fab fa-twitter"],
@@ -242,6 +250,7 @@
     "avatar": "thecolonial.jpg",
     "schedule": "Tuesdays 20:00 AEST (2+ hours)",
     "tags": ["CTF Challenges", "Binary Exploitation", "Reversing", "Tool Development"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/OJReeves", "fab fa-youtube"],
       ["https://twitch.tv/ojreeves", "fab fa-twitch"],
@@ -272,6 +281,7 @@
     "avatar": "rook.jpg",
     "schedule": "infrequently, typically Sunday afternoons, sometimes random week nights",
     "tags": ["CTF/wargame walkthroughs", "Web apps", "network", "pen testing"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/derekrook", "fab fa-youtube"],
       ["https://twitter.com/_r00k_", "fab fa-twitter"]
@@ -284,6 +294,7 @@
     "avatar": "spookphia.jpg",
     "schedule": "Weekly - Wednesday at 20:00 UTC",
     "tags": ["Retired Hack the Box boxes"],
+    "inactive": true,
     "links": [
       ["https://twitter.com/spookphia", "fab fa-twitter"],
       ["https://twitch.tv/Vixxen_TV", "fab fa-twitch"]
@@ -322,6 +333,7 @@
     "avatar": "mrturvey.jpg",
     "schedule": "Mondays 17:00 UTC",
     "tags": ["PenTesting Tutorials", "HackTheBox", "InfoSec Interviews"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/mrturvey", "fab fa-youtube"],
       ["https://twitter.com/TurvSec", "fab fa-twitter"]
@@ -334,6 +346,7 @@
     "avatar": "hacksplained.jpg",
     "schedule": "1 video per week",
     "tags": ["pentesting", "bug bounty", "motivational"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/hacksplained", "fab fa-youtube"],
       ["https://twitter.com/PascalSec", "fab fa-twitter"],
@@ -363,6 +376,7 @@
     "avatar": "247ctf.jpg",
     "schedule": "No :)",
     "tags": ["CTF game host", "CTF fundamentals YT videos"],
+    "inactive": true,
     "links": [
       ["https://youtube.com/247CTF", "fab fa-youtube"],
       ["https://247ctf.com", "fas fa-globe"],
@@ -403,6 +417,7 @@
     "avatar": "reconless.jpg",
     "schedule": "",
     "tags": ["WebAppSec", "Bug Bounties"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/channel/UCCp25j1Zh9vc_WFm-nB9fhQ", "fab fa-youtube"],
       ["https://twitter.com/0xReconless", "fab fa-twitter"]
@@ -432,6 +447,7 @@
     "avatar": "superhero1.jpg",
     "schedule": "bi-weekly",
     "tags": ["Capture the Flag", "HackTheBox/TryHackMe", "Hardware", "Pentesting"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/superhero1", "fab fa-youtube"],
       ["https://twitter.com/_superhero1", "fab fa-twitter"],
@@ -538,6 +554,7 @@
     "avatar": "Alexis.jpg",
     "schedule": "2-4 Videos Per Week",
     "tags": ["Cybersecurity", "Penetration Testing", "Web App Pentesting", "HackTheBox", "TryHackMe", "Linux Security", "Python", "Kali"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/HackerSploit", "fab fa-youtube"],
       ["https://www.patreon.com/HackerSploit", "fab fa-patreon"],
@@ -585,6 +602,7 @@
     "avatar": "conda.jpg",
     "schedule": "Weekly Uploads",
     "tags": ["Cyber Security", "Penetration Testing", "Home Lab"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/c0nd4", "fab fa-youtube"],
       ["https://twitter.com/0xConda", "fab fa-twitter"]
@@ -612,6 +630,7 @@
     "avatar": "systemexploited.png",
     "schedule": "every 3 days or every week",
     "tags": ["security", "reversing", "OSINT", "ethical hacking"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/SystemExploited", "fab fa-youtube"],
       ["https://www.linkedin.com/in/husseinmuhaisen/", "fab fa-linkedin"]
@@ -624,6 +643,7 @@
     "avatar": "tamilhackz.png",
     "schedule": "Aiming for once a week",
     "tags": ["CTF Challenges", "Exploit development", "HackTheBox"],
+    "inactive": true,
     "links": [
       ["https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA", "fab fa-youtube"]
     ]

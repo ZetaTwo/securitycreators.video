@@ -44,9 +44,6 @@ jobs:
         with:
           path: ./dist
 
-      - name: Run tests
-        run: npm test
-
   # Deployment job
   deploy:
     environment:

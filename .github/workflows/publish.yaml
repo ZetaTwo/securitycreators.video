@@ -37,6 +37,8 @@ jobs:
         run: npm run lint
 
       - name: Build site
+        env:
+          BASE_URL: ${{ steps.pages.outputs.base_url }}
         run: npm run build
 
       - name: Upload artifact

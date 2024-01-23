@@ -1,6 +1,6 @@
 <template>
 <footer>
-  Contact: <a href="mailto:contact@securitycreators.video">contact@securitycreators.video</a>
+  By <a href="https://twitter.com/ZetaTwo">ZetaTwo</a> - Contact: <a href="mailto:contact@securitycreators.video">contact@securitycreators.video</a>
 </footer>
 </template>
 

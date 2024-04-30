@@ -50,7 +50,8 @@
     "schedule": "Weekly Videos",
     "tags": ["GRC", "IT Audit", "Career", "Business"],
     "links": [
-      ["https://www.youtube.com/@cpatocybersecurity", "fab fa-youtube"]
+      ["https://www.youtube.com/@cpatocybersecurity", "fab fa-youtube"],
+      ["https://www.cpatocybersecurity.com", "fas fa-globe"]
     ]
   },
   {

@@ -9,16 +9,16 @@
     "test": "node test/validate-links.js"
   },
   "dependencies": {
-    "core-js": "^3.20.2",
-    "vue": "^2.6.14"
+    "core-js": "^3.37.1",
+    "vue": "^2.7.16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^5.0.8",
     "@vue/cli-service": "^5.0.8",
-    "eslint": "^8.45.0",
-    "eslint-plugin-vue": "^9.15.1",
-    "vue-template-compiler": "^2.6.14"
+    "eslint": "^8.57.0",
+    "eslint-plugin-vue": "^9.27.0",
+    "vue-template-compiler": "^2.7.16"
   },
   "eslintConfig": {
     "root": true,
